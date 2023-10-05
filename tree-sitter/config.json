@@ -1,0 +1,56 @@
+{
+  "parser-directories": [
+    "/home/santiago/github",
+    "/home/santiago/src",
+    "/home/santiago/source"
+  ],
+  "theme": {
+    "punctuation.delimiter": 239,
+    "constructor": 136,
+    "attribute": {
+      "color": 124,
+      "italic": true
+    },
+    "function": 26,
+    "keyword": 56,
+    "punctuation.bracket": 239,
+    "string": 28,
+    "tag": 18,
+    "embedded": null,
+    "string.special": 30,
+    "type": 23,
+    "variable.parameter": {
+      "underline": true
+    },
+    "constant": 94,
+    "module": 136,
+    "constant.builtin": {
+      "bold": true,
+      "color": 94
+    },
+    "property": 124,
+    "operator": {
+      "bold": true,
+      "color": 239
+    },
+    "variable.builtin": {
+      "bold": true
+    },
+    "comment": {
+      "italic": true,
+      "color": 245
+    },
+    "type.builtin": {
+      "color": 23,
+      "bold": true
+    },
+    "function.builtin": {
+      "bold": true,
+      "color": 26
+    },
+    "number": {
+      "bold": true,
+      "color": 94
+    }
+  }
+}
