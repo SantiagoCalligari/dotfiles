@@ -1,6 +1,6 @@
 return {
   "jay-babu/mason-nvim-dap.nvim",
-  dependencies = "mason.nvim",
+  dependencies = { "mason.nvim", "mfussenegger/nvim-dap" },
   cmd = { "DapInstall", "DapUninstall" },
   opts = {
     -- Makes a best effort to setup the various debuggers with
@@ -42,6 +42,8 @@ return {
       "php",
       "bash",
       "python",
+      "cpptools",
+      "codelldb",
     },
   },
 }
