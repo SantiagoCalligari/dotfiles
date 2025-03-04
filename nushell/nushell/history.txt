@@ -1,0 +1,7158 @@
+ls
+clear
+ls
+ls -la
+ls | grid --color
+clear
+ls | grid -c
+ls
+ls | grid -c -w 40
+ls | grid -c -w 80
+ls | grid -c -w 10
+ls | grid -c -w 20
+ls | grid -c -w 40
+ls
+ls | sort-by type name -i | grid -c
+ls
+clear
+ls
+rm *.py
+rm test.bin
+ñs
+ls
+clear
+ls
+rm -rf powerlevel10k/ paru/ nltk_data/ input.txt output.png dotfiles/ 3ce/ 
+ls
+ls -la
+ls -a
+cd
+ls
+find . -name "mason-core"
+find . --name "mason-core"
+find . "mason-core"
+ls
+cd .local/
+ls
+cd share/
+ls
+cd nvim/
+ls
+rm -rf mason/
+exit
+nvim .config/nushell/
+clear
+cd .local/
+ls
+cd share/
+ls
+rm -rf nvim/
+ls zoxide/
+cd zoxide/
+ls
+nvim db.zo
+exit
+nvim .config/nushell/
+cd
+cd .config/
+ls
+cd nvim/
+ls
+cd lua/
+ls
+cd plugins/
+ls
+nvim mason.lua
+cd
+ls
+nvim
+cd .config/nvim/
+ls
+cd lua/
+ls
+cd plugins/
+ls
+clear
+ls
+cd ..
+ls
+cd ..
+ls
+nvim init.lua
+nvim lazyvim.json
+cd lua/
+ls
+nvim config/lazy.lua
+cd
+cd .local/share/nvim/
+ls
+cd ..
+rm -rf nvim/
+ls
+cd
+ls
+cd .config/nvim/
+ls
+cd lua/
+ls
+ls *
+ls */
+ls config/
+ls plugins/
+nvim .config/nushell/env.nu
+ls
+cd ..
+ls
+nvim lua/config/lazy.lua
+ls
+clear
+exit
+exit
+# required<\n>mv ~/.config/nvim{,.bak}<\n><\n># optional but recommended<\n>mv ~/.local/share/nvim{,.bak}<\n>mv ~/.local/state/nvim{,.bak}<\n>mv ~/.cache/nvim{,.bak}
+ls
+cd .config/
+ls
+mv ~/.config/nvim{,.bak}
+zsh
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+ls
+rm -rf nvim/.git/
+ls
+cd nvim/
+ls
+nvim
+ls
+cd lua/
+ls
+cd plugins/
+ls
+nvim example.lua
+ls
+nvim ../../init.lua
+nvim ../config/lazy.lua
+nvim
+nvim ../config/lazy.lua
+cd ../..
+grep -R "tokyonight"
+ls
+rm lazy-lock.json
+nvim ../config/lazy.lua
+grep -R "tokyonight"
+exit
+rm -rf .local/share/nvim
+rm -rf .local/state/nvim/
+rm -rf .cache/nvim/
+nvim
+ls
+cd .config/nvim.bak/
+ls
+grep -R "colorscheme"
+cd .config/nvim/lua/
+ls
+cd plugins/
+ls
+nvim theme
+cd lua/plugins/
+ls
+nvim theme.lua
+nvim theme.lua
+nvim conform.lua
+cd ..
+ls
+grep -R "colorscheme"
+nvim conform.lua
+cd binaryTree/
+ls
+nvim main.c
+rm -rf .cache/nvim/
+rm -rf .local/state/nvim/
+rm -rf .local/share/nvim
+nvim main.cc
+sudo pacman -S unzip
+exit
+nvim theme.lua
+ls
+cd ..
+ls
+cd ..
+rm -rf .local/share/nvim .local/state/nvim .cache/nvim/
+nvim
+clear
+ls
+cd lua/
+ls
+cd plugins/
+ls
+ls
+nvim one-dark.lua
+ls
+nvim
+exit
+nvim
+cd .config/nvim/lua/
+ks
+ls
+cd plugins/
+ls
+nvim vimtex.lua
+nvim surround.lua
+nvim closetag.lua
+nvim
+mv closetag.lua vim-closetag.lua
+nvim
+nvim nvim-nio.lua
+nvim
+rm null-ls.lua
+rm vim-closetag.lua
+ls
+nvim
+ls
+help shells
+shells
+show
+shell
+nvim oh-my.nu
+nu oh-my.nu
+ls
+clear
+ls
+rm oh-my.nu
+cd
+exit
+paru oh-my-posh
+curl -s https://ohmyposh.dev/install.sh | bash -s
+LW
+ls
+curl -s https://ohmyposh.dev/install.sh | bash -s
+curl -s https://ohmyposh.dev/install.sh | sudo bash -s
+curl -s https://ohmyposh.dev/install.sh | bash -s
+ls -l /usr/bin/theme
+ls -l /usr/local/bin
+clear
+ls -l /usr/local/bin
+curl -s https://ohmyposh.dev/install.sh | bash -s
+curl -s https://ohmyposh.dev/install.sh | bash sudo -s
+$nu.env-path
+nvim .config/nushell/env.nu
+cd .config/nvim/lua/
+ls
+nvim plugins/nvim-nu.lua
+exit
+nvim .config/nushell/env.nu
+rm -rf .local/share/nvim .local/state/nvim .cache/nvim/
+nvim .config/nushell/env.nu
+}
+sudo pacman -S tree-sitter
+sudo pacman -S latext
+sudo pacman -S texlive
+exit
+nvim .config/nushell/env.nu
+tree-sitter
+paru tree-sitter
+tree-sitter 
+tree-sitter playgroud
+tree-sitter p
+exit
+sudo pacman -S node
+sudo pacman -S nodejs
+sudo pacman -Syuu
+nvim
+sudo pacman -S node
+sudo pacman -S nodejs
+nvim
+ls
+cd .config/
+ls
+mv nvim BAKnvim
+mv nvim.bak/ nvim
+nvim
+mv nvim/ nvim.bak
+mv BAKnvim/ nvim
+nvim
+ls
+cd
+ls
+cd binaryTree/
+ls
+cd .config/nvim.bak/
+ls
+grep -R "dap"
+cd .config/nvim
+ls
+grep -R "dap"
+grep -R "break"
+grep -R "break"
+ls
+nvim lua/config/keymaps.lua
+nvim lua/config/mapping.lua
+nvim init.lua
+:q
+cd
+cd binaryTree/
+ls
+nvim main.c
+nvim main.c
+cd ..
+ls
+mv BAKnvim/ nvim
+mv nvim BAKnvim
+mv nvim.bak/ nvim
+nvim main.c
+exit
+nvim main.c
+ls
+cd nvim/
+ls
+nvim
+cd config
+ls
+cd
+ls
+nvim .config/nushell/env.nu
+$nu.config.path
+$nu.config-path
+nvim .config/nushell/config.nu
+exit
+ls
+z
+alias cd=z
+alias cd 
+alias cd = z
+ls
+cd bi
+ls
+cd
+exit
+ls
+nvim
+ls
+cd ..
+ls
+mv nvim/ BAKnvim
+ls
+ls -la
+history
+la
+ls
+clear
+ls
+mv BAKnvim/ nvim
+ls
+cd nvim
+nvim
+ls
+cd bin
+ls
+alias cd = z
+nvim .config/nushell/config.nu
+cd
+ls
+exit
+exit
+clear
+ls
+cd .config/
+ls
+cd .config/
+ls}
+cd ls
+ls
+cd nvim/
+ls
+mv nvim BAKnvim
+cd BAKnvim/
+ls
+nvim init.lua
+cd
+ls
+cd binaryTree/
+ls
+nvim main.c
+cd nvim
+ls
+z nvim
+z config nvim
+z
+cd config
+ls
+exit
+nvim .config/nushell/config.nu
+exit
+alias cd = z
+z
+cd config nvmi
+cd config nvim
+ls
+nvim
+cd bin
+ls
+cd binaryTree/
+nvim
+nvim
+cd bin
+ls
+cd binaryTree/
+ls
+nvim main.cl
+nvim
+ls
+mv BAKnvim/ ../.git/ls
+ls
+mv ../.git/ls ../Bvim
+ls
+cd ..
+ls
+mv nvim/ BAKnvim
+ls
+mv Bvim/ nvim
+ls
+mv Bvim/ nvim
+ls
+clear
+cd nvim/
+ls
+nvim
+cd ..
+ls
+cd ..
+ls
+git clone git@github.com:santiagocalligari/dotfiles
+cd dotfiles/
+ls
+cd nvim/
+ls
+nvim 
+cd ..
+ls
+rm -rf ~/.config/nvim/
+mv nvim/ ~/.config/
+ls
+cd 
+ls
+cd .config/
+ls
+nvim main.c
+nvim main.c
+exit
+ls
+clear
+ls
+cd ..
+ls
+cd ..
+cd
+cd .config/
+ls
+cd nvim/
+ls
+nvim init.lua
+rm -rf .local/share/nvim .local/state/nvim .cache/nvim/
+ls
+cd .config/
+ls
+cd nvim
+ls
+nvim
+nvim init.lua
+paru lazygit
+paru fd
+paru fdfind
+paru fd
+sudo pacman -S go luarocks
+sudo pacman -S npm julia pip
+sudo pacman -S npm julia python-pip
+ls
+sudo pacman --help
+sudo pacman -C
+ls
+sudo pacman -Rncs go luarocks
+paru partition-manager
+paru partitionmanager
+ls
+paru gparted
+shutdown now
+cd Descargas/
+ls
+cd 
+exut
+exit
+nvim .config/nushell/config.nu
+:q
+eit
+exit
+ls
+cd
+cd php
+ls
+cd est
+ls
+php artisan serve 
+screen -S artisan
+nvim
+git add -A
+git commit -m "los filtros de articulos estan en modo minimo"
+git push
+git push --set-upstream origin filtroarticulos
+git pull
+exit
+shutdown now
+ssh ubuntu@estrategica.calligaria.r
+ssh ubuntu@estrategica.calligari.ar
+exit
+,s
+ls
+clear
+cd est
+ls
+clear
+ls
+screen -r artisan
+screen -S artisan
+git log --oneline
+clear
+less
+sudo pacman -S less
+less
+git log --oneline
+git checkout main
+ls
+exit
+nvim 
+git add -A
+git commit -m "debug filter"
+git push
+ssh ubuntu@estrategica.calligari.ar
+exit
+ls
+ks
+ls
+nu config
+cd .config/
+ls
+cd nvim/
+ls
+cd .config/
+ls
+cd BAKnvim/
+ls
+cd lua/plugins/
+ls
+nvim nvim-nu.lua
+exit
+nvim 
+nvim
+sudo pacman -S python-neovim
+gem install ruby
+gem install neovim
+npm
+sudo pacman -S npm julia python-pip
+sudo pacman -Syuu
+reboot
+ls
+sudo pacman -Syuu
+reflector
+sudo pacman -S reflector
+sudo reflector --verbose --latest 5 --sort rate --save /etc/pacman.d/mirrorlist
+sudo reflector --latest 200 --protocol http --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+sudo pacman -Syuu
+shutdown now
+ssh ubuntu@estrategica.calligari.ar
+exit
+sudo pacman -S go luarocks julia python3-pip
+sudo pacman -S go luarocks julia python-pip
+exit
+nvim .config/nushell/config.nu
+sudo pacman -S npmjs
+sudo pacman -S npm
+exit
+sudo pacman -S npm
+reboot
+nvim .config/nushell/config.nu
+rm -rf .local/share/nvim .local/state/nvim .cache/nvim/
+exit
+ls
+exit
+exit
+nvim .config/nushell/config.nu
+cd .config/
+ls
+cd ..
+ls
+find . "tree-sitter"
+find .* "tree-sitter"
+grep -R "tree-sitter"
+nvim 
+grep -R "tree-sitter"
+sudo pacman -S tree-sitter 
+tree-sitter --help
+tree-sitter dump-languages
+tree-sitter init-config
+tree-sitter dump-languages
+exit
+nvim .config/nushell/config.nu
+sudo pacman -Rncs tree-sitter 
+exit
+nvim .config/nushell/config.nu
+nvim
+sudo pacman -S neovim
+nvim .config/nushell/config.nu
+rm -rf .local/share/nvim .local/state/nvim .cache/nvim/
+sudo pacman -Rncs tree-sitter-bash
+sudo pacman -Rncs tree-sitter-c tree-sitter-lua
+sudo pacman -Rncs tree-sitter-python tree-sitter-markdown tree-sitter-query tree-sitter-query tree-sitter-vimdoc
+rm -rf .local/share/nvim .local/state/nvim .cache/nvim/
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+nvim .config/nushell/config.nu
+nvim .local/share/nvim/lazy/vim-illuminate/
+nvim .config/nushell/config.nu
+:q
+exit
+nvim .local/share/nvim/
+exit
+ssh ubuntu@estrategica.calligari.ar
+ls
+cd est
+ls
+git checkout filter
+git checkout 
+git branches
+git branch
+git checkout filtroarticulos
+ssh root@estrategica.calligari.ar
+exie
+exit
+exit
+paru rquickshare
+shutdown now
+reboot
+s
+ls
+cd Descargas/
+ls
+sudo dd if=archlinux-2024.05.01-x86_64.iso of=/dev/sda status=progress
+shutdown now
+ssh root@estrategica.calligari.ar
+ssh ubuntu@estrategica.calligari.ar
+exit
+ssh ubuntu@estrategica.calligari.ar
+cd est
+ls
+cd est
+ls
+git status
+git checkout main
+ls
+git branch
+git log --oneline cambiar_keywords
+ls
+nvim
+sudo pacman -S tree-sitter-php
+paru tree-sitter-php
+tree-sitter 
+sudo pacman -S tree-sitter-php
+paru tree-sitter-php
+sudo pacman -Syuu
+sudo pacman -Ss tree-sitter
+paru tree-sitter-php
+npm 
+npm install -g tree-sitter-php
+sudo npm install -g tree-sitter-php
+tree-sitter 
+tree-sitter  dump-languages
+tree-sitter dump-languages
+nvim
+exit
+nvim
+rm call_estrategica.sql
+npm install -g tree-sitter-blade
+sudo npm install -g tree-sitter-blade
+nvim
+paru tree-sitter-blade
+reboot
+cd est
+cd nvim
+ls
+cd est
+nvim
+nvim 
+exit
+cd est
+cd nvim
+cd est
+nvim
+nvim
+exit
+nvim
+cd est
+nvim
+git add -A
+git commit -m "Add Programador Privilege"
+git push
+git status 
+git push
+nvim
+exit
+nvim
+git commit -am "Agregue el seeder del programador"
+git checkout pantallas_debug
+git checkout -b pantallas_debug
+cd web
+lks
+ls
+git pull
+git checkout debug
+git pull
+cd est
+source .venv/bin/activate
+source .venv/bin/activate.csh
+exit
+sh -i -c 'source venv/bin/activate ; nu'
+ls
+pip install -r requirements.txt
+python manage.py loaddata web/seeders/setting.json
+exit
+nvim .env
+python manage.py runserver 127.0.0.1:8080
+nvim scraping/settings.py
+python manage.py runserver 127.0.0.1:8080
+git status
+git fetch
+git pull
+find . "crawler"
+find . "crawler.py"
+find "crawler.py"
+find --help
+ls -r | find crawler
+ls -R | find crawler
+ls -R
+ls
+ls scraping/
+ls web/
+ls web/processes/
+nvim web/processes/scraper_process.py
+python manage.py loaddata web/seeders/setting.json
+nvim 
+git add .A
+git add -A
+git commit -m "Agregue el debug a articles"
+git push
+git push --set-upstream origin pantallas_debug
+cd est
+nvim
+php artisan make:migration add_saved_columns --table=scrap_articles 
+nvim database/migrations/2024_05_21_212924_add_saved_columns.php
+q
+php artisan make:migration add_manual_columns --table=articles
+nvim database/migrations/2024_05_21_213036_add_manual_columns.php
+php artisan migrate
+cd web
+ls
+git pull
+python manage.py migrate
+pip
+clear
+python manage.py 
+python manage.py
+ls
+python manage.py migrate
+python manage.py makemigrations
+clear
+python manage.py makemigrations
+git reset --hard HEAD
+git log --oneline master
+git log
+python manage.py migrate
+python manage.py makemigrations
+clear
+nvim hacermigration
+exit
+exit
+sh -i -c 'source .venv/bin/activate ; nu'
+exit
+sh -i -c 'source venv/bin/activate ; nu'
+exit
+cd Web_scrapping/
+ls
+git branches
+git branch
+git log --oneline proceso
+ls
+clear
+git fetch
+git pull
+python manage.py 
+python manage.py migrate
+python manage.py loaddata web/seeders/setting.json
+cd est
+python manage.py runserver 127.0.0.1:8080
+nvim scraping/settings.py
+python manage.py runserver 127.0.0.1:8080
+cd est
+nvim 
+git status
+git log --oneline
+git stash
+git checkout main
+git stash apply
+nvim resources/views/scrapArticle/list.blade.php
+git stash apply
+nvim resources/views/scrapArticle/list.blade.php
+git commit -am "fix stash"
+git stash apply
+git commit -am "added manual y saved a los articulos"
+git push
+ssh ubuntu@estrategica.calligari.ar
+exit
+exit
+sh -i -c 'source .venv/bin/activate ; nu'
+exit
+php artisan serve 
+exit
+shutdown onw
+shutdown now
+paru zoom
+cd est
+ls
+git log --oneline
+git branch
+ls
+git log --oneline pantallas_debug
+git branch
+git log --oneline filtroarticulos
+php artisan make:migration add_manual_columns --table=articles
+php artisan make:migration add_saved_columns --table=scrap_articles 
+nvim database/migrations/2024_05_21_213036_add_manual_columns.php
+git add -A
+git commit -am "added manual y saved a los articulos"
+rm database/migrations/2024_05_22*
+git commit -am "fix error"
+git push
+git pull
+ls
+exit
+cd web
+git log --oneline 
+exit
+exit
+cd est
+git checkout pantallas_debug
+exit
+reboot
+exit
+paru
+sudo pacman -Syuu
+sudo pacman -S archlinux-keyring
+sudo pacman -Syuu
+reflector
+sudo reflector --latest 200 --protocol http --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+sudo pacman -Syuu
+paru
+paru beekeeper
+exit
+beekeeper-studio 
+sudo pacman -S fuse
+shutdown now
+nvim temp
+exit
+cd est
+php artisan run
+screen -S artisan
+screen -r
+ls
+git status
+git checkout main
+git branch
+nvim
+git commit -am "fix keywords"
+git push
+ssh ubuntu@estrategica.calligari.ar
+sudo pacman -S carapace
+paru carapace
+nvim .config/nushell/config.nu
+exit
+carapace 
+nvim .config/nushell/config.nu
+nvim .config/nushell/env.nu
+exit
+ls
+reboot
+ls
+paru carapace
+carapace 
+nvim .config/nushell/env.nu
+ls
+ls .cache/
+ls .cache/carapace/
+rm .cache/carapace/
+rm -rf .cache/carapace/
+exit
+carapace 
+carapace --codegen
+nvim .zoxide.nu 
+exit
+nvim .config/nushell/config.nu
+exit
+ls
+cd est
+git commit-tree 
+git commit-tree -p HEAD
+shutdown now
+ls
+curl -sS https://starship.rs/install.sh | sh
+mkdir ~/.cache/starship<\n>starship init nu | save -f ~/.cache/starship/init.nu
+nvim .config/nushell/config.nu
+exit
+ls
+mkdir -p ~/.config && touch ~/.config/starship.toml
+cd .config/
+exit
+ls
+cd Documentos/ls
+cd Documentos/
+ls
+cd.
+cd
+s
+ls
+cd binaryTree/
+ls
+lks
+ls
+cd binaryTree/
+ls
+exit
+ls
+cd MatrixSolver/
+ls
+cd ..
+ls
+git clone https://github.com/bwasty/learn-opengl-rs
+git clone git@github.com:bwasty/learn-opengl-rs
+git clone https://github.com/fujiapple852/trippy
+sudo pacman -Syuu
+ssh 
+git clone git@github.com:fujiapple852/trippy
+cd trippy/
+exit
+cd trippy/
+ls
+clear
+ls
+nvim .config/nushell/config.nu
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+cd
+ls
+rm a.c
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clea
+clear
+ls
+cd trippy/
+clear
+ls
+clear
+ls
+lls
+clear
+ls
+clear
+ls
+cd est
+ls
+clear
+ls
+git checkout pantallas_debug 
+ls
+clear
+ls
+git stash pop
+git stash
+git stash clear 
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+cd
+ls
+cd trippy/
+ls
+clear
+ls
+cd
+ls
+cd web
+ls
+git status
+ls
+clear
+ls
+cd ..
+ls
+cd tr
+cd trip
+ls
+clear
+ls
+cd
+ls
+cd trip
+ls
+clear
+ls
+cd
+ls
+cd fac
+l
+ls
+cd est
+ls
+cd Estruc
+ls
+ls -la
+clear
+ls
+shutdown now
+exit
+clear
+exit
+ls
+clear
+exit
+nvim .config/starship.toml 
+ñs
+ls
+cleaf
+clea
+clear
+nvim .config/nushell/config.nu
+exit
+nvim .config/nushell/config.nu
+reboot
+config nu
+env
+$env
+$editor
+nvim $nu.env-path
+config nu
+exit
+config nu
+exit
+nu --show_banner false
+reboot
+nu confi
+nu config
+config nu
+nu config
+exit
+nu
+exit
+nu config
+config nu
+exit
+nu
+config nu
+exit
+ls
+clear
+ls
+cd estruc
+ls
+mkdir PracticaIII
+cd III
+ls
+cd ..
+ls
+cd ..
+ls
+cd Estructuras/
+ls
+cd PracticaIII/
+ls
+cd Facu/Estructuras/PracticaI/
+ñs
+ls
+nvim arreglos.c 
+exit
+nvim pilas_dinamicas.c
+run
+cd Facu/Estructuras/PracticaIII/
+ls
+run pilas_dinamicas
+npm install -g tree-sitter-c
+sudo pacman -S tree-sitter-c
+exit
+cd Facu/Estructuras/PracticaIII/
+rm ~/.local/state/nvim/swap//%home%santiago%Facu%Estructuras%Pr<\n>acticaIII%arregloenteros.c.swp
+rm ~/.local/state/nvim.bak/swap/%home%santiago%Facu%Estructuras%PracticaII%main.c.swpacticaIII%arregloenteros.c.swp
+rm ~/.local/state/nvim.bak/swap/*
+ls
+cd III
+ls
+cd eIII
+cd e III
+cd est III
+ls
+clear
+ls
+rm ~/.local/state/nvim.bak//swap/*
+rm ~/.local/state/nvim.bak/swap/*
+nvim pilas_dinamicas.c
+cd pra II
+ls
+cd ..
+ls
+cd PracticaI/l
+cd PracticaI/}
+cd PracticaI/
+ls
+run pilas_dinamicas
+cd III
+run pilas_dinamicas
+nvim
+run pilas_dinamicas
+nvim
+run pilas_dinamicas
+nvim
+run pilas_dinamicas
+exit
+shutdown now
+ssh ubuntu@estrategica.calligari.ar
+exit
+mkdir workpik
+cd workpik/
+ls
+nvim
+cd /srv/http/ls
+cd /srv/http/
+ls
+sudo nvim
+cd workpik/
+ls
+cd wor
+nvim ej0.php
+exit
+mysql
+sudo mysql
+clear
+sudo mysql
+clear
+nvim
+ls
+shutdown now
+lsclear
+ls
+clear
+ls
+lscolors
+color-ls
+lscolor
+ls
+clear
+l
+clear
+ls
+screen -r
+cd est
+php artisan run
+screen -S artisan
+cd est
+git branch
+cd est
+composer install iconv
+composer require iconv
+composer require symfony/polyfill-iconv
+nvim
+git commit -am "Termine las pantallas de debug"
+git push
+nvim 
+git pull
+git checkout main
+git pull
+git fetch
+git status
+git reset --hard HEAD
+git pull
+git branch 
+git status
+git checkout main
+ls
+git pull
+git status
+git reset --hard HEAD
+git status
+git checkout main
+git add -A
+git commit -m "Agregue el debug a articles"
+git push
+nvim
+git add -A
+git commit -m "Ahora scraparticles se pueden eliminar desde panel"
+git push
+cd Facu/Estructuras/PracticaIII/
+cd est
+screen -S artisan
+ls
+nvim
+git commit -am "Ahora los articulos se muestran primero los mas nuevos, en vez de ordenados por nombre"
+git push
+ssh ubuntu@estrategica.calligari.ar
+exit
+exit
+cd est
+php artisan ser
+screen -S artisan
+ls
+cd est
+nvim
+git commit -am "fix buscar articulos scrap"
+git push
+ssh ubuntu@estrategica.calligari.ar
+exit
+cd est
+nvim
+git push
+ssh ubuntu@estrategica.calligari.ar
+cd Descargas/
+ls
+sudo chmod 400 ./newestrategica.pem
+ssh root@newscrawler.etg.com.ar -i ./newestrategica.pem 
+ssh -i newestrategica.pem  root@52.6.162.32
+ssh -i "newestrategica.pem" root@ec2-52-6-162-32.compute-1.amazonaws.com
+ls
+clear
+ssh -i  ./newestrategica.pem ec2-user@52.6.162.32
+ssh -i newestrategica.pem ec2-user@52.6.162.32
+ls newestrategica.pem
+sudo chmod 400 ./newestrategica.pem
+ssh -i newestrategica.pem ec2-user@52.6.162.32
+ssh -i "newestrategica.pem" ec2-user@ec2-52-6-162-32.compute-1.amazonaws.com
+nvim .ssh/config
+TERM=xterm ssh -i "newestrategica.pem" ec2-user@ec2-52-6-162-32.compute-1.amazonaws.com
+cd des
+TERM=xterm ssh -i "newestrategica.pem" ec2-user@ec2-52-6-162-32.compute-1.amazonaws.com
+TERM=xterm ssh -o PubkeyAcceptedKeyTypes=ssh-rsa -i "newestrategica.pem" ec2-user@ec2-52-6-162-32.compute-1.amazonaws.com
+cd des
+TERM=xterm ssh -o PubkeyAcceptedKeyTypes=ssh-rsa -i "newestrategica.pem" ec2-user@ec2-52-6-162-32.compute-1.amazonaws.com
+exit
+cd Facu/Estructuras/PracticaIII/
+ls
+bat
+sudo pacman -S bat
+bat ../PracticaII/glist.c 
+cp ../PracticaII/glist.* .
+l
+ls
+mvim pilas_glist.c
+cd Facu/Estructuras/
+mkdir PracticaIV
+ls
+cd PracticaIV/
+ls
+nvim
+ls ~/Descargas/
+ls ~/Descargas/btree.zip
+unzip ~/Descargas/btree.zip 
+ls
+run test
+cd IV
+ls
+run test
+nvim
+clear
+ls
+nvim main.c
+exit
+ls
+nvim
+git push
+nvim
+ssh ubuntu@estrategica.calligari.ar
+git add -A
+git commit -am "Front de filtro articulos"
+git push
+git status
+git pull
+exit
+cd Facu/Estructuras/PracticaIV/
+ls
+nvim
+unzip ~/Descargas/bstree.zip 
+exit
+config nu
+ls
+clear
+ls
+exit
+shutdown now
+cd Facu/Estructuras/PracticaIV/
+ls
+nvim 
+unzip ~/Descargas/avl.zip 
+run test
+nvim test.c
+run test
+git clone https://github.com/casualsnek/waydroid_script<\n>cd waydroid_script<\n>python3 -m venv venv<\n>venv/bin/pip install -r requirements.txt<\n>sudo venv/bin/python3 main.py
+sudo pacman -S lzip
+git clone https://github.com/casualsnek/waydroid_script<\n>cd waydroid_script<\n>python3 -m venv venv<\n>venv/bin/pip install -r requirements.txt<\n>sudo venv/bin/python3 main.py
+<\n>sudo venv/bin/python3 main.py
+cd ..
+ls}
+ls
+<\n>sudo venv/bin/python3 main.py
+exit
+shutdown now
+ssh ubuntu@estrategica.calligari.ar
+cd est
+ls
+nvim 
+git commit -am "No mostrar articulos/scraparticles donde el body esta vacio"
+git push
+ssh ubuntu@estrategica.calligari.ar
+nvim
+git commit -am "No mostrar articulos/scraparticles donde el body esta vacio"
+ssh ubuntu@estrategica.calligari.ar
+git push
+ssh ubuntu@estrategica.calligari.ar
+git pull
+exit
+shutdown now
+ssh -i "newestrategica.pem" ec2-user@ec2-52-6-162-32.compute-1.amazonaws.com
+ssh ubuntu@estrategica.calligari.ar
+exit
+cd est
+php artisan s
+php artisan se
+screen -S artisan
+cd est
+git branch
+cd est
+nvim
+:q
+nvim
+screen -r articulos.req
+php artisan ser
+ip ad
+php artisan serve host=192.168.100.191
+screen -r artisan
+nvim 
+git reset --hard HEAD
+nvim 
+git reset --hard HEAD
+nvim
+git reset --hard HEAD
+nvim 
+git reset --hard HEAD
+screen -r articulos.req
+cd est
+php artisan serve host=192.168.100.191
+screen -S artisan
+cd est
+nvim
+rm -rf .local/share/nvim .local/state/nvim .cache/nvim/
+nvim
+ls
+ls .local/
+ls .local/share/
+config nu
+nvim .config/starship.toml 
+ls
+nvim
+nvim .config/starship.toml 
+exit
+cd est
+nvim .config/starship.toml 
+ls
+find
+find .
+cd .local/share/nvim.bak/lazy/nvim-treesitter-textobjects/lua/nvim-treesitter/
+cd .local/share/nvim/lazy/nvim-treesitter-textobjects/lua/nvim-treesitter/
+cd ~/.local/share/nvim/lazy/nvim-treesitter-textobjects/lua/
+ls
+cd ..
+ls
+cd ..
+ls
+cd nvim-treesitter/
+ls
+cd lua/nvim-treesitter/
+ls
+nvim install.lua
+exit
+zsh
+exit
+cd est
+cd lua/nvim-treesitter/
+cd ~/.local/share/nvim.bak/lazy/nvim-treesitter-textobjects/lua/nvim-treesitter/
+ls
+cd ~/.local/share/nvim.bak/lazy/nvim-treesitter/lua/nvim-treesitter/
+ls
+nvim
+nvim install.lua
+rm -rf .local/share/nvim .local/state/nvim .cache/nvim/
+cd ..
+cd
+rm -rf .local/share/nvim .local/state/nvim .cache/nvim/
+exit
+clear
+cd 
+ls
+cd nvim
+ls
+cd
+cd .config/nvim/
+ls
+sudo pacman -S blade-formatter
+paru blade-formatter
+nvim
+npm install -g tree-sitter-blade
+paru blade-parser
+nvim
+q
+clear
+ls
+cd est
+ls
+git status
+git add resources/views/home/menu.blade.php 
+git commit -m "Cambio de nombre de articulos->articulos a clipping->auditoria"
+git push
+git add -A
+git commit -m "fix bug searcharticle"
+git push
+git branch
+cd
+ls
+exit
+git branch
+git checkout filtroarticulos 
+git checkout main 
+git branch -d filtroarticulos 
+git push origin --delete filtroarticulos
+git checkout -b filtro_articulos
+cd est
+npm install bootstrap5-toggle@5.1.1
+nvim 
+git add -A
+git commit -m "Front de filtro articulos terminado"
+git push
+<\n>    git push --set-upstream origin filtro_articulos
+htoṕ
+shutdown now
+cd prac
+ls
+cd ..
+ls
+mkdir PracticaHeaps
+ls
+cd PracticaHeaps/
+mkdir MarriagePact
+git init
+git branch -m main
+nvim preguntas
+sudo pacman -S obsidian
+git status
+ls
+rm .git/
+rm .rf .git/
+rm -rf .git/
+ls
+clear
+ls
+rm -rf workpik/ trippy/ waydroid_script/ nltk_data/ MarriagePact/
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+cat temp 
+sudo pacman -Syuu
+sudo pacman -S obsidian
+config nu
+exit
+ls
+lolcat
+exit
+sudo nvim /etc/pacman.conf 
+sudo pacman -Syuu
+sudo nvim /etc/pacman.conf 
+sudo pacman -Syuu
+sudo nvim /etc/pacman.conf 
+exit
+cd Documentos/ls
+cd Documentos/
+ls
+exit
+cd Documentos/Notas
+git init
+exit
+cd Documentos/Notas
+ls
+git remote add git@github.com/santiagocalligari/notas
+rm -rf .git/
+echo "# Notas" >> README.md<\n>git init<\n>git add README.md<\n>git commit -m "first commit"<\n>git branch -M main<\n>git remote add origin git@github.com:SantiagoCalligari/Notas.git<\n>git push -u origin main
+ls
+git add -A
+git commit -m "first commit"
+git branch -m main
+git remote add origin git@github.com:SantiagoCalligari/Notas.git \n git push -u origin main
+git remote add origin git@github.com:SantiagoCalligari/Notas.git
+git push -u origin main
+ls
+ls la
+ls
+cd ..
+ls
+cd Notas/
+ls
+cd Documentos/
+ls
+rm -rf Notas/
+git clone git@github.com:santiagocalligari/notas
+git --add .
+git add -A
+ls
+cd notas
+ls
+git add -A
+git commit -m "initial obsidian commit from CLI"
+git push -u origin main
+exit
+git add -A
+git commit -m "initial obsidian commit from CLI"
+git push
+curl --silent https://raw.githubusercontent.com/cmuench/pacman-auto-update/master/install.sh | bash
+systemctl status pacman-auto-update.timer 
+systemctl status pacman-auto-update
+systemctl enable pacman-auto-update.timer --now
+sudo systemctl enable pacman-auto-update.timer --now
+systemctl list-timers pacman-auto-update.timer 
+exit
+which git
+exit
+cd Es
+ls
+cd estruct
+ls
+cd PracticaHeaps/
+ls
+nvim main.c 
+ls
+nvim main.c 
+ls
+run main
+nvim main.c 
+run main
+nvim main.c 
+run main
+haskell
+sudo pacman -S haskell
+sudo pacman -Ss haskel
+sudo pacman -S ghc
+ghc
+nvim main.c 
+cat temp
+cd Heap
+run main
+shutdown now
+cd est
+php artisan serve host=192.168.100.191
+git status
+screen -S artisan
+git status
+git log --oneline
+git checkout main
+ls
+nvim
+composer require yajra/laravel-datatables-oracle:"^11"
+composer require yajra/laravel-datatables-oracle
+nvim
+composer require yajra/laravel-datatables
+php artisan datatables:make Users
+cd est
+php artisan vendor:publish -- provider="Yajra\DataTablesServiceProvider"
+php artisan vendor:publish --provider="Yajra\DataTables\DataTablesServiceProvider"
+nvim
+git reset --hard HEAD
+git checkout filtro_articulos 
+mnvim
+nvim
+git add -A 
+git commit -m "Fix all delete buttons, also made the tables more compact"
+git push
+ssh ubuntu@estrategica.calligari.ar
+exit
+git status
+exit
+cd desc
+TERM=xterm ssh -o PubkeyAcceptedKeyTypes=ssh-rsa -i "newestrategica.pem" ec2-user@ec2-52-6-162-32.compute-1.amazonaws.com
+TERM=xterm ssh -o PubkeyAcceptedKeyTypes=ssh-rsa -i "newestrategica.pem" ec2-user@54.205.39.206
+TERM=xterm ssh -o PubkeyAcceptedKeyTypes=ssh-rsa -i "newestrategica.pem" ec2-user@ec2-54-205-39-206.compute-1.amazonaws.com
+exit
+$env.TERM
+config nu
+env 
+ls
+nvim .config/nushell/env.nu 
+ls
+nvim .ssh/config
+ssh -i "newestrategica.pem" ec2-user@ec2-54-205-39-206.compute-1.amazonaws.com
+cd desc
+ssh -i "newestrategica.pem" ec2-user@ec2-54-205-39-206.compute-1.amazonaws.com
+exit
+ssh ubuntu@estrategica.calligari.ar
+exit
+TERM=xterm ssh -o PubkeyAcceptedKeyTypes=ssh-rsa -i "newestrategica.pem" ec2-user@ec2-54-205-39-206.compute-1.amazonaws.comexit
+exit
+ls
+php serve
+ls
+cd Documentos/
+ls
+mkdir Proyectos
+cd Proyectos/
+ls
+mkdir Server
+rmdir Server/
+mkdir WebPage
+cd WebPage/
+ls
+nvim index.html
+mv index.html index.php
+nvim index.php 
+php serve 
+php serve .
+ls
+python3 -m http.server
+php artisan serve --host=192.168.100.191
+exit
+screen -r artisan
+python3 -m http.server
+ls
+cd /srv/http/
+ls
+sudo ls
+ls
+ln --help
+ln -s /home/santiago/Documentos/Proyectos/WebPage/index.php 
+ln -s /home/santiago/Documentos/Proyectos/WebPage
+ls
+sudo ln -s /home/santiago/Documentos/Proyectos/WebPage
+ls
+cd
+cd WebPage
+ls
+shutdown now
+cd Est
+ls
+screen -S artisan
+cd est
+ls
+nvim 
+exit
+reboot
+ls
+mv Facu/ Documentos/.
+ls
+clear
+ls
+clear
+ls
+rm MatrixSolver/ Imágenes/ Música/ Plantillas/
+rm -rf MatrixSolver/ Imágenes/ Música/ Plantillas/
+ls
+clear
+l
+clear
+ls
+mkdir Documentos/Personal
+mkdir Documentos/Trabajo
+ls
+clear
+ls
+mv newscrawler/ Documentos/Trabajo/.
+mv Web_scrapping// Documentos/Trabajo/.
+ls
+clear
+ls
+mv appestrategica/ Documentos/Trabajo/
+ls
+rm -rf binaryTree/ dotfiles/ go hacermigration preguntas articulos.req temp 
+ls
+clear
+ls
+rm -rf Público/ Vídeos/ intelephense/ waydroid_script/
+rm -rf Público/ Vídeos/ intelephense/ 
+ls
+ls -la
+sudo mv ./waydroid_script/ ./.waydroid_script/
+ssh ubuntu@estrategica.calligari.ar
+ls
+clear
+nmap -Ss 192.168.100.0/24
+sudo pacman -S nmap
+nmap -Ss 192.168.100.0/24
+nmap -sS 192.168.100.0/24
+sudo nmap -sS 192.168.100.0/24
+nvim /etc/hosts
+ping raspberry
+ssh isoroc@raspberry
+sudo nvim /etc/hosts
+cd nvim
+ls
+nvim lua/plugins/pathfinder.lua
+exit
+shutdown now
+cd est
+cd estrategica
+ls
+cd Documentos/Trabajo/appestrategica/
+ls
+cd.
+cd 
+ls
+cd est
+ls
+nvim
+cd est
+screen -S artisan
+cd nvim
+ls
+cd lua/
+ls
+cd plugins/
+ls
+rm pathfinder.lua
+ls
+exit
+cd est
+nvim
+git add -A
+git commit -m "Primera instancia de filtro de articulos"
+git push
+ssh ubuntu@estrategica.calligari.ar
+exit
+shutdown now
+cd est
+shutdown now
+sudo pacman -S virt-manager
+virt-manager 
+systemctl enable libvirtd --now
+systemctl enable libvirtd.socket --now
+sudo pacman -S virt-manager virt-viewer qemu qemu-arch-extra \<\n>edk2-ovmf vde2 ebtables dnsmasq bridge-utils openbsd-netcat libguestfs
+sudo pacman -S virt-manager virt-viewer qemu<\n>edk2-ovmf vde2 ebtables dnsmasq bridge-utils openbsd-netcat libguestfs
+sudo pacman -S virt-manager virt-viewer qemu edk2-ovmf vde2 ebtables dnsmasq bridge-utils openbsd-netcat libguestfs
+reboot
+sudo virsh shutdown Windows-11 --mode=agent
+sudo pacman -S swtpm
+reboot
+sudo pacman -S freerdp2-x11
+sudo pacman -S freerdp2
+git clone https://github.com/Fmstrat/winapps
+cd winapps/
+ls
+nvim ~/.config/winapps/winapps.conf
+bin/winapps check
+sudo usermod -aG libvirt $(whoami)
+sudo usermod -aG libvirt santiago
+sudo usermod -aG kvm santiago
+bin/winapps check
+reboot
+cd winapps/
+bin/winapps check
+virsh start RDPWindows
+bin/winapps check
+sudo virsh net-list --aññ
+sudo virsh net-list --all
+sudo virsh net-start default
+sudo virsh net-list --all
+sudo virsh net-autostart --network-default
+sudo virsh net-autostart
+sudo virsh net-autostart default
+sudo virsh net-list --all
+reboot
+cd winapps/
+b
+bin/winapps check
+virsh net-list
+sudo pacman -S libvirt-daemon-config-network
+paru libvirt-daemon-config
+paru libvirt-daemon
+sudo pacman -Syuu libvirt
+virsh net-list
+virsh net-add
+virsh --help
+virsh net-create default
+nvim a.xml
+virsh net-create a.xml
+nvim a.xml
+virsh net-create a.xml
+nvim a.xml
+virsh net-create a.xml
+nvim a.xml
+virsh net-create a.xml
+nvim a.xml
+virsh net-create a.xml
+nvim a.xml
+virsh net-create a.xml
+nvim a.xml
+virsh net-create a.xml
+nvim a.xml
+virsh net-list
+ip ad
+virsh net-list
+virsh net-create a.xml
+nvim a.xml
+virsh net-create a.xml
+nvim a.xml
+virsh net-create a.xml
+nvim a.xml
+virsh net-create a.xml
+sudo pacman -S libvirt-daemon
+sudo pacman -S libvirtd
+sudo pacman -S libvirtdeamon
+sudo pacman -S libvirt
+virsh net-start 
+virsh net-start default
+sudo virsh net-list --all
+sudo virsh brige --all
+sudo virsh }
+shutdown now
+sudo pacman -Rncs libvirt
+sudo pacman -Rncs qemu-io 
+sudo pacman -Rncs qemu
+sudo pacman -Rncs qemu-baswe
+sudo pacman -Rncs qemu-base
+rebooy
+reboot
+cd Pro
+ls
+mkdir ChatService
+cd Chat
+ls
+cd ChatService/
+git init
+git branch -m main
+git config --global init.defaultBranch main
+clear
+mkdir src include build bin tests 
+ls
+nvim .gitignore
+clear
+which run
+sudo bat /usr/bin/run
+sudo pacman -S ncurses
+nvim Makefile
+make
+ls
+ls bin/
+make
+nvim Makefile 
+make
+bin/ChatService
+cd ChatService/
+cd ChatService
+make
+clear
+make
+bin/ChatService
+cd facu
+ls
+rm a.xml
+rm -rf intelephense/ winapps/
+ls
+clear
+cd Documentos/
+ls
+cd Fa
+cd Facu/
+ls
+cd Estr
+ls
+cd
+cd Facu
+ls
+cd Estructuras/
+ls
+cd Estructuras
+ls
+shutdown now
+cd IV
+cd Estructuras
+cd PracticaHeaps/
+ls
+nvim main.c
+nvim heapsort.c
+cd est
+ls
+cd est
+screen -S artisan
+nvim
+shutdown now
+ls
+ls intelephense/
+ls
+rm intelephense/
+ls
+cd Documentos/
+ls
+shutdown now
+ssh ubuntu@estrategica.calligari.ar
+exit
+shutdown now
+ssh -i "newestrategica.pem" ec2-user@ec2-54-205-39-206.compute-1.amazonaws.comexit
+cd Descargas/
+ls
+ssh -i "newestrategica.pem" ec2-user@ec2-54-205-39-206.compute-1.amazonaws.comexit
+TERM=xterm ssh -o PubkeyAcceptedKeyTypes=ssh-rsa -i "newestrategica.pem" ec2-user@54.205.39.206
+cd Descargas/
+TERM=xterm ssh -o PubkeyAcceptedKeyTypes=ssh-rsa -i "newestrategica.pem" ec2-user@54.205.39.206
+TERM=xterm ssh -o PubkeyAcceptedKeyTypes=ssh-rsa -i "newestrategica.pem" ec2-user@panel.etg.com.ar
+shutdown now
+vulkaninfo 
+inxi  
+sudo pacman -S inxi
+inxi -G
+sudo pacman -S amdvlk
+ls /usr/share/vulkan/icd.d/
+vulkaninfo 
+cd Des
+ls
+clear
+ls
+clear
+ls
+mv vulkan_tutorial_en.epub ´Vulkan Tutorial.epub´
+mv vulkan_tutorial_en.epub `Vulkan Tutorial.epub`
+ls
+rm Whats*
+ls
+clear
+ls
+rm *epub
+ls
+clear
+ls
+*iso
+ls
+rm *iso
+ls
+clear
+ls
+rm *html
+ls
+clear
+ls
+rm *.c *.h *zip 
+ls
+rm *pdf
+ls
+clear
+ls
+rm *exe *xlsx *png *svg *jpg
+ls
+clear
+ls
+rm `The Ultimate Art of War (Z-Library) (1).mobi`
+ls
+rm makefile
+ls
+clear
+ls
+rm `PANEL - SECCIÓN ARTÍCULOS.docx`
+ls
+clear
+ls
+cd
+ls
+cd `Capturas de pantalla/`
+ls
+cd ..
+ls
+rmdir "Capturas de pantalla/"
+ls
+clear
+ls
+sudo pacman -S vulkan-devel
+vkcube
+sudo pacman -S glfw-waylan
+sudo pacman -S glfw-wayland
+sudo pacman -S glm
+sudo pacman -S shaderc
+glslc
+cd Proyectos
+ls
+mkdir VulkanTest
+cd VulkanTest/
+ls
+sudo pacman -S cglm
+sudo pacman -S libcglm
+sudo pacman -S libcglm-dev
+sudo pacman -S cglm
+yay cglm
+paru cglm
+nvim main.c
+ls
+find --help
+clear
+ls
+cd Documentos/
+ls
+cd Proyectos/
+ls
+cd ChatService/
+ls
+sudo pacman -S libxi libxxf86vm
+nvim Makefile 
+make test
+nvim Makefile 
+make test
+nvim Makefile 
+exit
+nvim
+ls
+cat make
+bat Makefile 
+make test
+nvim main.c
+cd vulkan
+ls
+make test
+exit
+shutdown now
+cd vulkan
+ls
+nvim
+mv ~/Descargas/raylib.h .
+ls
+nvim main.c 
+run main
+make test
+sudo pacman -S libraylib-dev
+paru libraylib
+paru raylib
+run main
+gcc main.c -o VulkanTest -lraylib -lGL -lm -lpthread -ldl -lrt -lX11<\n>
+ls
+./VulkanTest
+exit
+shutdown now
+shutdown
+shutdown now
+cd vulkan
+ls
+cd ..
+ls
+mkdir OpenGLTest
+cd OpenGLTest/
+ls
+nvim main.c
+nvim Make
+nvim Makefile
+make test+
+make test
+make main
+ls
+./main
+nvim Makefile 
+./main
+make main
+nvim Makefile 
+make main
+make 
+nvim
+git init
+git commit -m "tengo un triangulo"
+git add -A
+git commit -m "tengo un triangulo"
+rm main triangulo
+ls
+git add -A
+nvim main
+nvim main.c 
+shutdown now
+sudo pacman -Syuu
+cd Open
+ls
+make
+cd Open
+make
+ls
+cd Pro
+ls
+mkdir SQLiteC
+rmdir
+rmdir SQLiteC/
+ls
+mkdir CQLite
+cd CQ
+ls
+cd CQLite/
+ls
+clear
+ls
+mkdir src
+mkdir lib
+mkdir build
+ls
+touch Makefile
+touch src/main.c
+ls
+ls ..
+ls
+bat ../ChatService/Makefile 
+cp ../ChatService/Makefile .
+ls
+nvim Makefile 
+make
+make run
+nvim src/main.c
+make run
+make 
+ls
+./bin/ChatService
+ls
+nvim Makefile 
+nvim ,,
+nvim ..
+ls
+make
+make run
+clear
+ls
+nvim
+nvim 
+clear
+ls
+cd ..
+ls
+git clone https://git.codecrafters.io/116a1a94f5dc976f codecrafters-redis-c<\n>cd codecrafters-redis-c
+cd ..
+ls
+mv codecrafters-redis-c/ redisC
+cd redisC/
+ls
+git commit --allow-empty -m 'test'<\n>git push origin master
+nvim app/server.c 
+git commit --allow-empty -m 'test'<\n>git push origin master
+nvim app/server.c 
+git add . <\n>git commit --allow-empty -m 'pass 1st stage' <\n>git push origin master
+ls
+cd
+ls
+cd Trabajo
+cd Documentos/
+ls
+cd Trabajo/
+ls
+mkdir TuNota
+ls
+cd TuNota/
+ls
+git clone git@github.com:Tu-Nota/tunota-backend
+git clone git@github.com:Tu-Nota/tunota-frontend
+git clone git@github.com:Tu-Nota/tunota-dashboard
+ls
+cd tunota-backend/
+ls
+cp .env.example .env
+composer install
+php --ini
+nvim /etc/php/php.ini 
+nvim
+sudo nvim ~/.config/nvim/lua/plugins
+sudo pacman -Syuu
+exit
+nvim
+ls
+clear
+zsh
+rm -rf .local/share/nvim .local/state/nvim .cache/nvim/
+nvim
+nvim ~/.config/nvim/lua/plugins/theme.lua 
+nvim ~/.config/nvim/lua/plugins/theme.lua }
+nvim ~/.config/nvim/lua/plugins/theme.lua
+sudo pacman -S konsole
+sudo pacman -R alacritty
+sudo pacman -Syuu
+sudo pacman -S xz
+xz --version
+xz
+clear
+cd Trabajo
+ls
+cd TuNota/
+ls
+cd tunota-backend/
+ls
+nvim .env 
+exit
+screen -S artisan
+exit
+cd tunota-backend
+ls
+nvim .env 
+sudo pacman -S alacritty
+ls
+nvim
+ls
+ssh -i "newestrategica.pem" ec2-user@ec2-54-205-39-206.compute-1.amazonaws.comexit
+cd Descargas/
+ssh -i "newestrategica.pem" ec2-user@ec2-54-205-39-206.compute-1.amazonaws.comexit
+ssh -i "newestrategica.pem" ec2-user@ec2-54-205-39-206.compute-1.amazonaws.com
+cd tunback
+cd tunbac
+cd tuno back
+ls
+nvim .env 
+composer install
+sudo nvim /etc/php/php.ini 
+sudo pacman -S php-iconv
+paru php-iconv
+composer install
+sudo nvim /etc/php/php.ini 
+paru php-sodium
+composer install
+composer update
+composer install
+php artisan key:generate
+php artisan migrate:install
+php artisan migrate
+php artisan db:seed
+phpp artisan passport:install
+php artisan passport:install
+cd ..
+ls
+cd tunota-frontend/
+cp .env.example .env
+nvim .env 
+docker
+sudo pacman -S docker
+sudo systemctl enable --now docker
+sudo usermod -aG docker santiago
+docker run --rm -v "${PWD}:/$(basename `pwd`)" -w "/$(basename `pwd`)" -it node:16.14.0 sh -c "yarn create nuxt-app ."<\n>
+reboot
+cd tunota-front
+docker-compose up --build -p
+sudo pacman -S docker-compose
+docker-compose up --build -p
+docker run --rm -v "${PWD}:/$(basename `pwd`)" -w "/$(basename `pwd`)" -it node:16.14.0 sh -c "yarn install ."<\n>
+docker run --rm -v "${PWD}:/$(basename `pwd`)" -w "/$(basename `pwd`)" -it node:16.14.0 sh -c "yarn install"<\n>
+ls
+git reset --hard HEAD
+docker run --rm -v "${PWD}:/$(basename `pwd`)" -w "/$(basename `pwd`)" -it node:16.14.0 sh -c "yarn install"<\n>
+docker run --rm -v "${PWD}:/$(basename `pwd`)" -w "/$(basename `pwd`)" -it node:16.14.0 sh -c "yarn install"<\n>clear
+ls
+clera
+clear
+ls
+cd T
+ls
+cd Tuno
+ls
+cd ..
+ls
+cd backe
+ls
+clear
+ls
+bat .env 
+nvim .env 
+composer install
+bat .env 
+git branch
+php artisan db:seed
+php artisan db:seed --class=PermissionSeeder
+phpp artisan passport:install
+php artisan passport:install
+php artisan command:addStatesToCities
+screen -S artisan
+ls
+cd ..
+ls
+cd front
+ls
+nvim .env 
+yarn install
+sudo pacman -S yarn
+yarn install
+yarn debv
+yarn dev
+node
+ls
+nvim .env 
+ls
+sudo downgrade node
+sudo downgrade nod
+sudo downgrade node
+clear
+ls
+sudo downgrade node
+sudo downgrade nodejs 
+yarn dev
+clear
+ls
+yarn dev
+sudo pacman -S openssl
+yarn dev
+sudo pacman -Syuu
+yarn dev
+nvm
+sudo downgrade nodejs 
+cd ..
+ls
+cd tunota-frontend/
+yarn install
+sudo pacman -S openssl
+yarn install
+yarn --version
+yarn --v
+yarn -v
+sudo downgrade yarn
+yarn install
+node
+yarn
+node
+clear
+yarn
+node
+clear
+ls
+sudo pacman -Syuu
+sudo pacman -S nvm
+npm install -g n
+sudo npm install -g n
+n
+n --help
+nvm
+sudo npm install -g nvm
+nvm
+sudo pacman -Rncs nvm 
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+nvm
+exit
+screen -S yarn
+exit
+cd frontend
+nvm
+npm uninstall -g n
+npm uninstall nvm
+sudo npm uninstall nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+nvm
+exit
+nvm
+ls
+cd .nvm/
+ls
+./nvm-exec
+./nvm.sh
+./install.sh
+nvm use 16.1
+cd back
+ls
+nvim .env 
+cd back
+ls
+cd Facu
+ls
+cd ProgramacionII/
+ls
+mkdir Finales
+cd Finales/
+ls
+mkdir Cupido
+nvim main.c
+gcc -o main.c main -std=c99
+gcc -o main main.c -std=c99
+ls
+cd Cupido/
+ls
+gcc -o main main.c -std=c99
+cd ..
+ls
+nvim main.c
+ls
+grep -a -B 25 -A 100 'p->nombre, p->apellido' . > recover.txt
+ls
+grep -a -B 25 -A 100 'p->nombre, p->apellido' ./ > recover.txt
+ls
+nvim main
+nvim 
+cp Cupido/main.c .
+ls
+gcc -o main main.c -std=c99
+ls
+./main
+ls
+nvim Cupido/
+gcc -o main main.c -std=c99
+cp Cupido/main.c .
+gcc -o main main.c -std=c99
+./main
+nvim Cupido/
+cd Cupido/
+ls
+nvim 
+cd Facu
+ls
+grep -R "get_line"
+grep -R "line"
+nvim ProgramacionII/punteros.c
+nvim main.c 
+ls
+run main
+ls
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+cd facu
+ls
+grep -R "FILE"
+nvim main.c
+run main
+cd cupido
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+cat personas.txt 
+nvim main.c
+ls
+nvim main.py
+python3 main.py
+ls
+cat personas.txt 
+run main
+cat personas.txt 
+python3 main.py
+nvim main.py 
+python3 main.py
+nvim main.py 
+python3 main.py
+nvim main.py 
+python3 main.py
+nvim main.py 
+python3 main.py
+nvim main.py 
+shutdown now
+paru
+sudo pacman -Syuu
+history | awk '{$1=""; print $0}' | awk '{print $1}' | sort | uniq -c | sort -rn
+lls
+ls
+bash
+history
+exit
+cd Facu
+ls
+cd ProgramacionII/
+ls
+cd Finales/
+ls
+mkdir Afinidad
+cd Afinidad/
+ls
+nvim main.c
+gcc -o main main.c -std=c99
+ls
+./main
+ls
+nvim main.c
+ls
+gcc -o main main.c -std=c99
+./main
+gcc -o main main.c -std=c99
+nvim main.c
+gcc -o main main.c -std=c99
+./main
+gcc -o main main.c -std=c99
+nvim main.c
+gcc -o main main.c -std=c99
+./main
+nvim main.c
+./main
+gcc -o main main.c -std=c99 && ./main
+gcc -o main main.c -std=c99 ; ./main
+cd ProgramacionII/
+cd ..
+ls
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+cd ProgramacionII
+nvim main.c
+run main
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+cd ProgramacionII
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+clear
+nvim main.c
+cd ..
+ls
+mkdir BatallaNaval
+cd BatallaNaval/
+ls
+nvim main.c
+nvim juego.txt
+gcc -o main main.c -std=c99 ; ./main
+nvim juego.txt
+nvim main.c
+nvim juego.txt
+gcc -o main main.c -std=c99 ; ./main
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+clear
+nvim main.c
+clear
+gcc -o main main.c -std=c99 ; ./main
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+ls
+gcc -o main main.c -std=c99 ; ./main
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+clear
+./main
+run main
+clear
+run main
+nvim main
+nvim main.c
+nvim main.c 
+clear
+sudo nvim /usr/bin/run 
+cd backen
+lsx
+ls
+screen -S artisan
+cd front
+screen -S yarn
+ls
+git status
+cd dash
+ls
+cd Tuno
+ls
+cd ...
+ls
+cd TuNota/
+ls
+cd tunota-dashboard/
+ls
+cp .env_example .env
+cd front
+ls
+nvim .env 
+yarn install
+cd dashboard
+ls
+nvim bidimensional.c 
+cd front
+ls
+nvim .env 
+cd back
+ls
+nvim .env 
+cd back
+ls
+nvim .env 
+reboot
+clear
+ls
+cd Finales
+ls
+mkdir Sopa
+ls
+cd Sopa/
+ls
+nvim main,c
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main
+gcc -o main main.c -std=c99 ; ./main 213
+gcc -o main main.c -std=c99
+./main
+gcc -o main main.c -std=c99
+nvim main.c
+gcc -o main main.c -std=c99
+nvim main.c
+./main
+nvim main.c
+./main
+nvim main.c
+./main
+gcc -o main main.c -std=c99
+nvim main.c
+gcc -o main main.c -std=c99
+./main
+nvim main.c
+./main
+gcc -o main main.c -std=c99
+./main
+./main sexo
+nvim main.c
+gcc -o main main.c -std=c99
+ls
+./main juego.txt
+gcc -o main main.c -std=c99
+./main juego.txt
+./main juego
+./main 
+ls
+nvim main.c 
+run main juego.txt
+nvim main.c 
+run main juego.txt
+nvim main.c 
+gcc -o main main.c -std=c99
+./main juego.txt
+nvim main.c 
+gcc -o main main.c -std=c99
+./main juego.txt
+cat juego.txt 
+./main juego.txt
+cat juego.txt 
+nvim main.c 
+./main juego.txt
+gcc -o main main.c -std=c99
+./main juego.txt
+nvim main.c 
+gcc -o main main.c -std=c99
+nvim main.c 
+./main juego.txt
+nvim main.c 
+gcc -o main main.c -std=c99
+nvim main.c 
+./main juego.txt
+run main juego.txt
+./main juego.txt
+nvim main.c 
+run main juego.txt
+./main juego.txt
+nvim main.c 
+run main juego.txt
+nvim main.c 
+./main juego.txt
+nvim main.c 
+./main juego.txt
+nvim main.c 
+gcc -o main main.c -std=c99 ; ./main juego.txt
+gcc -o main main.c -std=c99 ; ./main juego.txt}
+gcc -o main main.c -std=c99 ; ./main juego.txt
+clear
+ls
+nvim main.c 
+gcc -o main main.c -std=c99 ; ./main juego.txt
+nvim main.c 
+gcc -o main main.c -std=c99 ; ./main juego.txt
+nvim main.c 
+gcc -o main main.c -std=c99 ; ./main juego.txt
+nvim main.c 
+gcc -o main main.c -std=c99 ; ./main juego.txt
+nvim main.c 
+gcc -o main main.c -std=c99 ; ./main juego.txt
+nvim main.c 
+gcc -o main main.c -std=c99 ; ./main juego.txt
+nvim main.c 
+run main juego.txt
+nvim main.c 
+run main juego.txt
+nvim main.c 
+gcc -o main main.c -std=c99 ; ./main juego.txt
+cat salida 
+nvim main.c 
+gcc -o main main.c -std=c99 ; ./main juego.txt
+cat salida 
+gcc -o main main.c -std=c99 ; ./main juego.txt
+cat salida 
+nvim main.c 
+gcc -o main main.c -std=c99 ; ./main juego.txt
+cat salida 
+gcc -o main main.c -std=c99 ; ./main juego.txt; cat salida
+nvim main.c 
+nvim main.c }
+nvim main.c 
+nvim main.py
+gcc -o main main.c -std=c99 ; ./main juego.txt; cat salida
+cd cupido
+ls
+rm -rf *
+ñs
+ls
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main 
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main 
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main 
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main 
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main 
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main 
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main 
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main 
+nvim main.c
+gcc -o main main.c -std=c99 ; ./main 
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+cd config
+ls
+cd nvim
+ls
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+ls
+cat salida
+nvim main.c
+cat salida
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+clear
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+ls
+cp salida salida.bak
+nvim main.py
+python3 main.py
+ls
+cat salida 
+python3 main.py
+nvim main.py
+python3 main.py
+nvim main.py
+python3 main.py
+nvim main.py
+python3 main.py
+nvim main.py
+python3 main.py
+clear
+python3 main.py
+clear
+python3 main.py
+clear
+python3 main.py
+cd tunota
+ls
+cd ..
+ls
+cd tunota-backend/
+ls
+php artisan serve --host=192.168.100.191
+screen -S artisan
+cd front
+ls
+screen -S front
+cd dash
+ls
+nvim .env 
+yarn dev --port=3001
+yarn dev --port 3001
+yarn dev 3001
+yarn dev 
+nvim .env
+yarn dev 
+yarn dev --port 3001
+ls
+grep -R "3000"
+grep -R "dev"
+ls
+nvim 
+ls
+cat appspec.yml 
+cat package.json 
+cat cypress.config.js 
+cat nuxt.config.js 
+los
+ls
+nvim yarn.lock Dockerfile 
+:q
+nvim package.json 
+:q
+exit
+screen -S dash
+nvim package.json 
+screen -S dash
+cd back
+ls
+nvim .env 
+cd back
+git pull
+git branche
+git branches
+git branch
+git branch -l
+git checkout origin/stg 
+ls
+git status
+ls
+git switch stg 
+ls
+cd front
+git pull
+cd dash
+ls
+git pull
+cd back
+php artisan db:seed --refresh
+ls
+php artisan migrate:fresh --sed
+php artisan migrate:fresh --seed
+ls
+cd Des
+ls
+cd front
+nvim
+cd dash
+ls
+nvim
+nn:q
+ls
+cd back
+exit
+screen -r artisan
+paru bruno
+cd finales
+ls
+rm -rf BatallaNaval/
+mkdir BatallaNaval
+cd BatallaNaval/
+ls
+nvim main.c
+run main
+nvim main.c
+nvim main.py
+python3 main.py
+nvim main.py
+python3 main.py
+1
+python3 main.py
+nvim main.py
+python3 main.py
+nvim main.py
+python3 main.py
+nvim main.py
+python3 main.py
+ls
+nvim salida 
+python3 main.py
+nvim salida 
+nvim main.py
+clear
+cd estructuras
+ls
+mkdir Finales
+ls
+cd Finales
+l
+ls
+mkdir AtencionClientes
+cd AtencionClientes/
+ls
+nvim main.c
+cd ..
+ls
+mkdir Afinidades
+cd Afinidades/
+ls
+powertop
+sudo pacman -S powertop
+powertop --calibrate
+sudo powertop --calibrate
+cd backen
+ls
+sudo pacman -Syuu
+systemctl enable sshd --now
+ls
+clear
+ls
+cd back
+ls
+git pull
+clear
+ls
+git branch
+git checkout -b sc/c-130-contract-filter-and-validation
+ls
+nvim
+screen -r artisan
+cd back
+ls
+cd back
+nvim
+cd back
+bat app/Queries/
+ls
+bat app/Queries/NotificationQuery.php 
+cat app/Queries/NotificationQuery.php 
+cat app/Models/Notification.php 
+git diff
+nviim
+nvim
+git diff
+git add -A 
+git status
+git remove composer.lock
+git rm composer.lock
+cleasr
+clear
+ls
+git status
+git rm composer.lock
+git rm composer.lock --f
+git rm composer.lock -f
+clear
+git status
+ls
+git checkout dev -- composer.lock 
+ls
+git checkout dev -- app/Models/Notification.php 
+git status
+git commit -m "Added closed notifications filter and contract id filter"
+cd back
+nvim
+git add -A 
+git status
+git commit -m "Added an endpoint to check if a contract has ordinary procedures open"
+git push 
+git push --set-upstream origin sc/c-130-contract-filter-and-validation
+cd prols
+cd pro
+ls
+mkdir Engine
+ls
+cd Engine
+ls
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+clear
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+shutdown now
+cd Engine
+ls
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+nvim Makefile
+make run
+nvim Makefile
+nvim main.c
+nvim Makefile
+make run
+nvim main.c
+make run
+nvim main.c
+make run
+nvim main.c
+make run
+nvim main.c
+make run
+nvim main.c
+make run
+nvim main.c
+make run
+nvim main.c
+make run
+nvim main.c
+make run
+nvim main.c
+make run
+nvim main.c
+make run
+nvim main.c
+make run
+nvim main.c
+make run
+nvim main.c
+make run
+nvim main.c
+make run
+nvim main.c
+make run
+nvim main.c
+make run
+nvim main.c
+exit
+shutdown now
+screen -r artisan
+cd back
+screen -S artisan
+nvim 
+git reset --hard HEAD
+nvim 
+nvim
+git add -A
+git commit -m "Fixed bug in the filters that were made, now the filter works as intended"
+nvim
+git add -A
+git commit --ammend -m "Fixed bug in the filters that were made, now the filter works as intended"
+git status
+git log --oneline
+clear
+ls
+git commit --amend --no-edit
+cd back
+ls
+cd Engine
+ls
+nvim main.c 
+make run
+nvim main.c 
+make run
+nvim main.c 
+make run
+nvim main.c 
+make run
+shutdown now
+ls
+cd Engine
+ls
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+run main
+nvim main.c
+clear
+nvim main.c
+run main
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim main.c
+ls
+cd Engine
+ls
+cd ..
+ls
+mkdir Engine.bak
+mkdir -p my_c_project/{src,include,lib,bin,obj,doc}<\n>touch my_c_project/Makefile<\n>touch my_c_project/README.md
+mkdir -p Engine/{src,include,lib,bin,obj,doc}<\n>touch Engine/Makefile<\n>touch Engine/README.md
+bash
+cd Engine
+ls
+nvim Makefile 
+ls
+ls ..
+ls
+ls ../Engine.bak/
+mv main.c ../Engine.bak/
+ls
+clear
+ls
+rm main.out
+ls
+nvim
+ls
+cd Engine
+ls
+cd ..
+ls
+cd Engine.bak/
+ls
+nvim
+make run
+nvim 
+make run
+nvim 
+clear
+ls
+rm obj/*
+make run
+nvim main.c
+ls
+nvim src/main.c 
+nvim main.c
+make run
+ls
+rm obj/*
+clear
+make run
+gcc -std=c99 -Wextra -pedantic-errors -o main.out src/main.c -lSDL2<\n>./main.out
+nvim 
+gcc -std=c99 -Wextra -pedantic-errors -o main.out src/main.c -lSDL2<\n>./main.out
+make run
+rm obj/*
+make run
+nvim main.c
+nvim src/main.c 
+make run
+nvim src/main.c 
+clear
+make run
+nvim src/main.c 
+make run
+nvim Makefile 
+make run
+clear
+ls
+clear
+cat src/main.c src/draw.c include/draw.h 
+nvim src/main.c 
+cat src/main.c src/draw.c include/draw.h 
+nvim src/main.c 
+make run
+exit
+cd Engine
+ls
+nvim src/main.c 
+make run
+nvim src/main.c 
+make run
+nvim src/main.c 
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+make run
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+make run
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim src/main.c 
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+make run
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+nvim src/main.c 
+gcc -std=c99 -Wextra -pedantic-errors -o main.out main.c -lSDL2<\n>./main.out
+make run
+nvim src/main.c 
+make run
+ls
+git add -A
+git init}
+git init
+git commit -am "First commit"
+git add -A
+git commit -am "First commit"
+cd
+nvim .config/nushell/env.nu 
+nvim .config/nushell/config.nu 
+ls
+grep -R "ssh-agent"
+ls
+cd Engine
+make run
+git status
+git log --oneline
+nvim
+git log --oneline
+make run
+git log --oneline
+nvim
+make run
+nvim
+make run
+nvim
+make run
+nvim
+make run
+nvim
+date +%T
+cd Engine
+nvim
+ls
+nvim Makefile 
+make test
+nvim Makefile 
+make test
+nvim Makefile 
+make test
+ls
+cat Makefile 
+nvim Makefile 
+make test
+ls test
+make test triangleTest
+make test triangleTest.c
+make test NAME=triangleTest.c
+nvim Makefile 
+ls
+./bin/triangleTest.c_test
+nvim test/triangleTest.c 
+./bin/triangleTest.c_test
+make test NAME=triangleTest.c}
+make test NAME=triangleTest.c
+make test NAME=triangleTest
+nvim src/main.c 
+make test NAME=triangleTest
+nvim Makefile 
+make test NAME=triangleTest
+nvim src/main.c 
+make test NAME=triangleTest
+nvim Makefile 
+nvim src/main.c 
+nvim Makefile 
+make test NAME=triangleTest
+nvim src/main.c 
+make test NAME=triangleTest
+make run
+cd Engine
+ls
+git log --oneline
+nvim
+nvim Makefile 
+make run
+nvim 
+make run
+cd Engine
+make run 
+cd Engine
+git add -A
+git commit -m "Now there are filled triangles"
+git push
+ssh isoroc@raspberry
+ls
+clear
+ssh isoroc@calligari.ar
+ls
+cat .ssh/id_ed25519.pub 
+ssh isoroc@calligari.ar
+ssh root@calligari.ar
+shutdown now
+cat .ssh/id_ed25519.pub 
+ssh-keygen -t rsa
+shutdown now
+shutdown now 
+ls
+cd Facu
+ls
+cd ProgramacionII/
+ls
+cd Finales/
+ls
+mkdir Muerte
+cd Muerte
+ls
+nvim ejercicio1-calligari.c
+gcc -o ejercicio1 ejercicio1-calligari.c
+./ejercicio1
+gcc -o ejercicio1 ejercicio1-calligari.c -Wall
+gcc -o ejercicio1 ejercicio1-calligari.c -Wall -Werror
+nvim ejercicio1-calligari.c
+gcc -o ejercicio1 ejercicio1-calligari.c -Wall -Werror
+./ejercicio1
+gcc -o ejercicio1 ejercicio1-calligari.c -Wall -Werror
+nvim ejercicio1-calligari.c
+gcc -o ejercicio1 ejercicio1-calligari.c -Wall -Werror
+./ejercicio1
+gcc -o ejercicio1 ejercicio1-calligari.c -Wall -Werror
+nvim ejercicio1-calligari.c
+gcc -o ejercicio1 ejercicio1-calligari.c -Wall -Werror
+./ejercicio1
+gcc -o ejercicio1 ejercicio1-calligari.c -Wall -Werror
+nvim ejercicio1-calligari.c
+gcc -o ejercicio1 ejercicio1-calligari.c -Wall -Werror
+cd Muerte
+ls
+./ejercicio1
+ls
+gcc -o ejercicio1 ejercicio1-calligari.c -Wall -Werror
+./ejercicio1
+nvim ejercicio1-calligari.c
+./ejercicio1
+gcc -o ejercicio1 ejercicio1-calligari.c -Wall -Werror
+nvim ejercicio1-calligari.c
+gcc -o ejercicio1 ejercicio1-calligari.c -Wall -Werror
+./ejercicio1
+clear
+nvim ejercicio2-calligari.c
+gcc -o ejercicio2 ejercicio2-calligari.c
+ls
+./ejercicio2
+nvim ejercicio2-calligari.c
+gcc -o ejercicio2 ejercicio2-calligari.c
+./ejercicio2
+gcc -o ejercicio2 ejercicio2-calligari.c
+nvim ejercicio2-calligari.c
+gcc -o ejercicio2 ejercicio2-calligari.c
+./ejercicio2
+nvim ejercicio2-calligari.c
+./ejercicio2
+gcc -o ejercicio2 ejercicio2-calligari.c
+./ejercicio2
+nvim ejercicio6-calligari.c
+clear
+ls
+shutdown now
+ssh root@calligari.ar
+ls
+shutdown now
+sudo pacman -Syuu system-config-printer
+cd Descargas/
+ls
+cd
+ls
+cd Documentos/
+ls
+cd des
+ls
+cd `Pantum Ubuntu Driver V1.1.106/` 
+ls
+./install.sh
+ls
+cat install.sh 
+ls Resources/
+cd Resources/
+ls
+sudo pacman -S debtap
+paru debtap
+debtap
+debtap -u
+sudo debtap -u
+debtap
+paru pantum
+reboot
+shutdown now
+shutdown noiw
+shutdown now
+systemctl status pantum
+systemctl status cups
+systemctl start --now cups
+paru pantum
+exit
+reboot
+cups
+paru cups
+sudo pacman -S cups
+libusb
+systemctl start --now cups
+reboot
+shutdown now
+ssh ubuntu@recetas.calligari.ar
+ssh ubuntu@recetas.tera.ar
+exit
+shutdown now
+cat /dev/input/event0 
+sudo cat /dev/input/event0 
+udev
+sudo cat /dev/input/event1
+sudo cat /dev/input/event2
+sudo cat /dev/input/event3
+sudo cat /dev/input/event4
+sudo cat /dev/input/event5
+sudo cat /dev/input/event6
+sudo cat /dev/input/event7
+sudo cat /dev/input/event3
+sudo cat /dev/input/event4
+sudo cat /dev/input/event2
+cd /dev/input
+od
+od -x event5
+sudo od -x event5
+cd 
+ls
+cd Documentos/
+ls
+cd Proyectos/
+ls
+mkdir MouseTracker
+ls
+cd MouseTracker/
+ls
+nvim main.c
+cd nvim
+l
+ls
+grep conform.nvim
+grep conform.nvim -R
+nvim lua/plugins/conform.lua 
+exit
+cd Facu
+ls
+cd Proyectos
+ls
+cd MouseTracker/
+ls
+mvim
+sudo cat /dev/input/mice
+sudo od -x /dev/input/mice
+sudo od -x /dev/input/event5
+nvim main.c
+gcc -o main main.c
+ls
+./main
+nvim main.c
+gcc -o main main.c
+./main
+nvim main.c
+gcc -o main main.c
+./main
+nvim main.c
+./main
+nvim main.c
+gcc -o main main.c
+./main
+nvim main.c
+gcc -o main main.c
+./main
+nvim main.c
+nvim try.c
+gcc -o try try.c
+./try
+sudo cat /dev/input/mice
+sudo ./try
+sudo ./main
+ls
+clear
+ls
+nvim main.c 
+gcc -o main main.c
+sudo ./main
+ls
+clear
+sudo ./try
+nvim main.c 
+gcc -o main main.c
+sudo ./main
+nvim main.c 
+sudo ./main
+nvim main.c 
+sudo ./main
+nvim main.c 
+run main
+gcc -o main main.c
+sudo ./main
+run main
+ls
+xdpyinfo
+xdpyinfo | grep -B 2 resolution
+clear
+ls
+xdpyinfo | grep -B 2 resolution
+xdpyinfo | grep resolution
+xdpyinfo | grep resolutionxdpyinfo | grep resolution | sed -E 's/.*resolution:[[:space:]]*([0-9]{2})x([0-9]{2}).*/\1/'
+xdpyinfo | grep resolution | sed -E 's/.*resolution:[[:space:]]*([0-9]{2})x([0-9]{2}).*/\1/'
+xdpyinfo | grep resolution | sed -E 's/.*resolution:[[:space:]]*([0-9]+)x([0-9]+).*/\1 \2/'
+xdpyinfo | grep resolution | sed -E 's/.*resolution:[[:space:]]*([0-9]+)x.*/\1/'
+clear
+xdpyinfo | grep resolution | sed -E 's/.*resolution:[[:space:]]*([0-9]+)x.*/\1/'
+xdpyinfo | sed -E 's/.*resolution:[[:space:]]*([0-9]+)x.*/\1/'
+xdpyinfo | grep resolution | sed -E 's/.*resolution:[[:space:]]*([0-9]+)x.*/\1/'
+nvim main.c 
+ls
+echo $(xdpyinfo | grep resolution | sed -E 's/.*resolution:[[:space:]]*([0-9]+)x.*/\1/')
+nvim main.c 
+gcc -o main main.c
+sudo ./main
+nvim main.c 
+gcc -o main main.c
+sudo ./main
+nvim main.c 
+sudo ./main
+gcc -o main main.c
+sudo ./main
+sudo ./try
+sudo cat /dev/input/mice
+clear
+ls
+shutdown now
+ls
+cd Trabajo
+ls
+git clone git@github.com:CoopTera/RecetasElectronicas.git
+ls
+cd RecetasElectronicas/
+l
+s
+ls
+php artisan serve --host=192.168.100.191
+composer install
+php artisan serve --host=192.168.100.191
+ls
+vim resources/views/
+ls resources/views/
+ls
+cd RecetasElectronicas/
+cd RecetasElectronicas
+ls
+nvim routes/web.php 
+ls
+nvim routes/console.php 
+ls
+ls resources/views
+nvim resources/views/welcome.blade.php README.md 
+ls
+ssh ubuntu@recetas.tera.ar
+ls
+shutdown now
+cd MouseTracker/
+ls
+cd MouseTracker
+ls
+sudo ./main
+nvim
+sudo ./main
+gcc -o main main.c
+sudo ./main
+nvim
+gcc -o main main.c
+sudo ./main
+clear
+sudo ./main
+nvim main.c
+sudo ./main
+gcc -o main main.c
+sudo ./main
+sudo ./try
+clear
+sudo od -x /dev/input/event5
+sudo od -x /dev/input/mice
+xev
+clear
+l
+s
+nvim main.c
+gcc -o main main.c
+sudo ./main
+ls
+nvim main.c
+gcc -o main main.c
+sudo ./main
+clear
+nvim main.c
+gcc -o main main.c
+sudo ./main
+sudo od -x /dev/input/event5
+sudo od -x /dev/input/event2
+sudo od -x /dev/input/event3
+sudo od -x /dev/input/event4
+ls /dev/input
+sudo od -x /dev/input/mouse0
+sudo od -x /dev/input/mouse1
+nvim main.c
+gcc -o main main.c
+sudo ./main
+nvim main.c
+gcc -o main main.c
+sudo od -x /dev/input/event11
+/dev/input/event9
+sudo od -x /dev/input/event9
+sudo od -x /dev/input/event8
+sudo od -x /dev/input/event7
+sudo od -x /dev/input/event6
+ls /dev/input
+ls /dev/input/by-path/
+sudo od -x /dev/input/by-path/platform-AMDI0010:00-event-mouse
+sudo od -x /dev/input/by-path/platform-AMDI0010:00-mouse
+ls
+ioctl
+sudo od -x /dev/input/event0
+sudo od -x /dev/input/event1
+sudo od -x /dev/input/event2
+sudo od -x /dev/input/event3
+sudo od -x /dev/input/event4
+sudo od -x /dev/input/event5
+sudo od -x /dev/input/event6
+nvim main.c
+cd MouseTracker
+nvim main.c
+gcc -o main main.c
+sudo ./main
+nvim main.c
+sudo ./main
+gcc -o main main.c
+nvim main.c
+sudo ./main
+git init
+git add -A
+git remove -A
+git rm -A
+git rm try 
+git rm try -f
+git rm try.c -f
+ls
+clear
+ls
+git rm main -f
+ls
+clear
+git add -A
+git commit -m "First commit"
+git remote add origin git@github.com:SantiagoCalligari/MouseTracker
+git pull
+git push
+<\n>    git push --set-upstream origin main
+git pull 
+git pull remote origin
+git pull main origin
+ls
+<\n>    git branch --set-upstream-to=origin/<rama> main
+git pull
+<\n>    git branch --set-upstream-to=origin/main main
+git pull
+ls
+git pull --no-rebase
+ls
+git pull --ff-only
+ls
+git rebase
+ls
+git pull --ff-only
+ls
+git push
+nvim
+run main
+nvim main.c
+ls
+cd MouseTracker
+run main
+cd MouseTracker
+sudo ./main
+gcc -o main main.c
+cd MouseTracker
+sudo ./main
+cd MouseTracker
+sudo ./main
+cd MouseTracker
+gcc -o main main.c -std=c99 ; sudo ./main
+nvim main.c
+gcc -o main main.c -std=c99 ; sudo ./main
+gcc -o main main.c -std=c99
+ls
+clear
+nvim mouseinput.c
+gcc -o mouseinput mouseinput.c
+nvim mouseinput.c
+gcc -o mouseinput mouseinput.c
+./mouseinput
+nvim mouseinput.c
+gcc -o mouseinput mouseinput.c
+./mouseinput
+nvim mouseinput.c
+rm mouseinput*ls
+nvim main.c
+gcc -o main main.c -std=c99
+./main
+nvim main.c
+gcc -o main main.c -std=c99
+./main
+nvim main.c
+gcc -o main main.c -std=c99
+sudo ./main
+nvim main.c
+gcc -o main main.c -std=c99
+sudo ./main
+sudo od -x /dev/input/event6
+nvim main.c
+gcc -o main main.c -std=c99
+sudo od -x /dev/input/event6
+sudo ./main
+clear
+ls
+sudo od -x /dev/input/mice
+sudo od -x /dev/input/event6
+clear
+gcc -o main main.c
+sudo ./main
+nvim main.c
+gcc -o main main.c
+sudo ./main
+nvim main.c
+gcc -o main main.c
+sudo ./main
+nvim main.c
+clear
+gcc -o main main.c
+sudo ./main
+nvim main.c
+gcc -o main main.c
+sudo ./main
+clear
+cd MouseTracker
+gcc -o main main.c
+nvim main.c
+sudo ./main
+reboot
+sudo pacman -Syuu
+kcmshell6 kcm_touchpad
+shutdown now
+history | grep ec2
+cd Descargas/
+ls
+ssh -i "newestrategica.pem" ec2-user@ec2-52-6-162-32.compute-1.amazonaws.com 
+history | grep ec2
+ssh -i "newestrategica.pem"  ec2-user@ec2-54-205-39-206.compute-1.amazonaws.com
+exit
+shutdown now
+sudo pacman -Syuu
+ssh -i "newestrategica.pem"  ec2-user@ec2-54-205-39-206.compute-1.amazonaws.com
+cd Descargas/
+ssh -i "newestrategica.pem"  ec2-user@ec2-54-205-39-206.compute-1.amazonaws.com
+shutdown now
+cd Descargas/
+ssh -i "newestrategica.pem"  ec2-user@ec2-54-205-39-206.compute-1.amazonaws.com
+ssh -i "newestrategica.pem" ec2-user@ec2-54-205-39-206.compute-1.amazonaws.com
+ssh -i "newestrategica.pem" ec2-user@ec2-52-6-162-32.compute-1.amazonaws.com 
+exit
+cd notas
+ls
+cd
+bash
+ls
+cd Descargas/
+ssh -i "newestrategica.pem" ec2-user@ec2-52-6-162-32.compute-1.amazonaws.com 
+shutdown now
+cd Descargas/
+shutdown now
+cd Descargas/
+ssh -i "newestrategica.pem" ec2-user@ec2-52-6-162-32.compute-1.amazonaws.com 
+ls
+cd
+ls
+cd Trabajo
+ls
+cd
+ls
+cd Documentos/
+ls
+cd
+ls
+cd Descargas/
+ls
+cd
+ls
+cd Trabajo
+ls
+paru
+reboot
+paru
+sudo pacman -Syu
+sudo pacman -Syuu
+exit
+shutdown now
+cd Descargas/
+ssh -i "newestrategica.pem" ec2-user@ec2-52-6-162-32.compute-1.amazonaws.com 
+shutdown now
+nvim /home/santiago/.config/nushell/env.nu
+exit
+nvim /home/santiago/.config/nushell/env.nu
+exit
+nvim /home/santiago/.config/nushell/env.nu
+config nu
+nvim /home/santiago/.config/nushell/env.nu
+config nu
+clear
+ls
+nvim
+cd Descargas/
+ls
+ls ar*
+ls *linux*
+cd Descargas/
+sudo dd if=archlinux-2024.08.01-x86_64.iso of=/dev/sda status=progress
+config nu
+nvim /home/santiago/.config/nushell/env.nu
+config nu
+clear
+exit
+conf
+shutdown now
+ls
+npm
+clea
+rls
+clear
+ls
+cd Documentos/
+ls
+cd Trabajo/
+ls
+mkdir Recetas
+ls
+cd RecetasElectronicas/
+ls
+cd..
+cd ..
+ls
+mv RecetasElectronicas/ RecetasElectronicas/
+mv RecetasElectronicas/ Recetas
+ls
+cd Recetas/
+ls
+git clone git@github.com:CoopTera/FrontendRecetasElectronicas.git
+cd FrontendRecetasElectronicas/
+ls
+npm install react react-dom
+ls
+npm run
+npm run dev
+ls
+cd ..
+ls
+rm -rf FrontendRecetasElectronicas/
+npx create-react-app FrontendRecetasElectronicas
+npx create-react-app frontend-recetas-electronicas
+npm --v
+node --v
+node --version
+clear
+ls
+nvm
+nvm use 22.7
+clear
+sudo pacman -S nodejs
+node --version}
+node --version
+history | grep nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh
+ls
+clear
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+cd .nvm
+ls
+./nvm.sh
+./nvm-exec
+./nvm-exec 22.7
+./install.sh
+chmod u+x nvm.sh
+./nvm.sh
+./nvm.sh use 22.7
+node --version
+cd ..
+ls
+rm -rf .nvm/
+sudo pacman -Rncs nvm 
+sudo pacman -Rncs node-gyp 
+sudo pacman -Rncs node
+sudo pacman -Rncs node aalib 
+sudo pacman -Rncs node 
+ls
+node
+node --version
+clear
+ls
+cd Documentos/
+ls
+cd Trabajo/
+ls
+cd Recetas/
+ls
+rm -rf frontend-recetas-electronicas/
+npx create-react-app frontend-recetas-electronicas
+sudo pacman -S nodejs
+npm install -g npx
+paru npm
+npm install -g npx
+sudo npm install -g npx
+npx
+npx create-react-app frontend-recetas-electronicas
+cd frontend-recetas-electronicas/
+ls
+npm run dev
+npm run
+npm run start
+ls
+cd ..
+ls
+rm -rf frontend-recetas-electronicas/
+npx create-next-app frontend-recetas-electronicas
+ls
+cd frontend-recetas-electronicas/
+cd ..
+ls
+cd RecetasElectronicas/
+ls
+nvim .env.example 
+screen -S artisan
+ls
+clear
+sl
+ls
+cd ..
+ls
+cd frontend-recetas-electronicas/
+cd ..
+ls
+cd RecetasElectronicas/
+npx create-next-app nextjs
+php artisan breeze:install
+composer require laravel/breeze 
+php artisan breeze:install
+ls
+nvim .env.example 
+cp .env.example .env
+nvim .env
+php artisan migrate
+cd recetas
+ls
+cd frontend-recetas-electronicas/
+ls
+cd ,,
+cd ..
+ls
+cd RecetasElectronicas/
+ls
+nvim .env
+ls
+php artisan migrate
+php artisan serve
+php artisan key:generate
+screen -S artisan
+ls
+cd nextjs/
+ls
+npm run start
+next 
+npm build
+npm run build
+shutdown now
+ls
+cd AVL
+ls
+cd Estructuras
+ls
+cd AVL
+ls
+mv avl/* .
+ls
+rmdir al
+rmdir avl
+ls
+nvim 
+rm -rf *
+nvim main.c
+sudo  nvim /etc/udev/rules.d/50-switch.rules
+reboot
+sudo google-chrome-stable 
+sudo pacman -S python3-wx
+paru python3-wx
+paru fusee-nano
+cd 
+ls
+cd Descargas/
+ls
+sudo fusee-nano fusee-test.bin 
+sudo fusee-nano hekate_ctcaer_6.2.1_Nyx_1.6.3/hekate_ctcaer_6.2.1.bin 
+sudo fusee-nano hekate_ctcaer_6.2.0_Nyx_1.6.2_v4/hekate_ctcaer_6.2.0.bin 
+sudo fusee-nano Lockpick_RCM.bin 
+cd Descargas/
+sudo fusee-nano hekate_ctcaer_6.2.0_Nyx_1.6.2_v4/hekate_ctcaer_6.2.0.bin 
+sudo fdisk
+sudo fdisk -l
+sudo fdisk /dev/sdb
+sudo fdisk -l
+sudo fdisk /dev/sdb
+exit
+sudo fdisk -l
+ls
+mkdir t
+sudo mount /dev/sdb1 t
+sudo fdisk /dev/sdb
+mkfs.ext4 /dev/sdb1
+sudo mkfs.ext4 /dev/sdb1
+sudo mount /dev/sdb1 /t
+sudo mount /dev/sdb1 t
+ls
+sudo fdisk -l
+sudo mount /dev/sdb1 t
+ls
+cp Escritorio/* t/.
+cp Escritorio/* t/. --recursive
+ls
+ls Escritorio/
+rm Escritorio/chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop
+cp Escritorio/* t/. --recursive
+cd /mnt/
+ls
+cd
+cd /run/media/santiago/01D1-0C20/bootloader/
+ls
+cd ..
+ls
+nvim exosphere.ini
+cd atmosphere/
+ls
+mkdir hosts
+cd hosts/
+nvim default.txt
+exit
+cd Descargas/
+sudo fusee-nano hekate_ctcaer_6.2.0_Nyx_1.6.2_v4/hekate_ctcaer_6.2.0.bin 
+sudo fusee-nano hekate_ctcaer_6.2.0_Nyx_1.6.2_v4/hekate_ctcaer_6.2.0.bin }
+sudo fusee-nano hekate_ctcaer_6.2.0_Nyx_1.6.2_v4/hekate_ctcaer_6.2.0.bin 
+cd Descargas/
+sudo fusee-nano hekate_ctcaer_6.2.0_Nyx_1.6.2_v4/hekate_ctcaer_6.2.0.bin 
+sudo cp Escritorio/* t/. --recursive
+cd Descargas/
+sudo fusee-nano hekate_ctcaer_6.2.0_Nyx_1.6.2_v4/hekate_ctcaer_6.2.0.bin 
+cd Descargas/
+sudo fusee-nano hekate_ctcaer_6.2.0_Nyx_1.6.2_v4/hekate_ctcaer_6.2.0.bin 
+shutdown now
+cd Descargas/
+sudo fusee-nano hekate_ctcaer_6.2.0_Nyx_1.6.2_v4/hekate_ctcaer_6.2.0.bin 
+paru ns-usbloader
+ns-usbloader 
+cd front
+ls
+cd frontend
+ls
+cd ..
+ls
+rm -rf frontend-recetas-electronicas/
+ls
+mv RecetasElectronicas/ ../
+cd ..
+ls
+rmdir Recetas/
+ls
+cd RecetasElectronicas/
+ls
+git status
+screen -S artisan
+cd next
+cd nextjs/
+ls
+npm run dev
+ls
+git add -A
+git commit -m "Add nextjs and breeze"
+git push
+ls
+nvim
+npm install dotenv
+npm install path
+ls
+nvim .env
+mv .env .env.example
+nvim next.config.mjs 
+npm uninstall dotenv
+npm install @next/env
+ls
+nvim app/envConfig.ts
+cd nexts
+cd next
+ls
+nvim 
+mv app/envConfig.tsx app/envConfig.ts
+ls
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+ls
+nvim app/envConfig.ts 
+ln ../.env .
+ls
+ls -la
+cat .env 
+npm run
+npm run dev
+git add -A
+git status
+git commit -m "added access to dotenv"
+git push
+ls
+ssh ubuntu@recetas.tera.ar
+shutdown now
+cd Descargas/
+ls
+cd Trabajo
+ls
+git clone git@github.com:CoopTera/LicenceChecker
+git clone git@github.com:CoopTera/LicenseChecker.git
+ls
+cd LicenseChecker/
+ls
+nvim client.py
+python client.py 
+nvim client.py
+python client.py 
+pip install flask
+sudo pacman -S python-flask
+nvim server.py
+flask 
+flask --app server run
+nvim server.py
+curl -X POST http://localhost:5000/api \<\n>     -H "Content-Type: application/json" \<\n>     -d '{"usuario": "ejemplo_usuario", "password": "ejemplo_password", "mac": "00:11:22:33:44:55"}'
+curl -X POST http://localhost:5000/api -H "Content-Type: application/json" -d '{"usuario": "ejemplo_usuario", "password": "ejemplo_password", "mac": "00:11:22:33:44:55"}'
+ssh -i "newestrategica.pem" ec2-user@ec2-52-6-162-32.compute-1.amazonaws.com 
+exit
+flask --app server run
+nvim server.py
+echo "" > server.py
+ls
+nvim server.py
+curl -X POST http://localhost:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "nuevo_usuario", "password": "contraseña_segura", "admin_key": "clave_secreta_del_admin"}'
+ls
+cd LicenseChecker/
+cd Trabajo
+ls
+cd LicenseChecker/
+ls
+ls users.db
+cat users.db 
+curl -X POST http://localhost:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "nuevo_usuario", "password": "contraseña_segura", "mac": "00:11:22:33:44:55"}'
+curl -X POST http://localhost:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "nuevo_usuario", "password": "contraseña_segura", "mac": "00:11:22:33:44:15"}'
+flask --app server run
+git add -A
+git commit -m "Creada API donde se checkea si contraseña, usuario y MAC coinciden"
+nvim .gitignore
+git add -A
+git commit -m "Fix gitignore"
+git rm users.db 
+git add -A
+git commit -m "Remove db"
+git push
+shutdown now
+ls
+cd LicenseChecker/
+cd LicenseChecker
+ls
+cd
+ls
+ls /srv/http/
+ls -la /srv/http/
+sudo ln -s /home/santiago/Documentos/Trabajo/LicenseChecker/
+ls
+mv LicenseChecker /srv/http/
+sudo mv LicenseChecker /srv/http/
+ls
+nvim server.php
+ls
+mv server.php Documentos/Trabajo/LicenseChecker/
+cd L
+ls
+sudo pacman -Rsn $(pacman -Qdtq)
+bash
+pacman -Qi | gawk '/^Name/ { x = $3 }; /^Installed Size/ { sub(/Installed Size  *:/, ""); print x":" $0 }' | sort -k2,3nr
+sudo pacman -Rncs texlive-fontsextra 
+sudo pacman -Rncs zoom vulkan-validation-layers julia ghc go vulkan-html-docs 
+<\n>curl -X POST -d "Usuario=usuarioInexistente&Contraseña=contraseñaInexistente&MAC=00:11:22:33:44:55" http://localhost/licencias.php<\n>
+<\n>curl -X POST -d "Usuario=usuarioInexistente&Contraseña=contraseñaInexistente&MAC=00:11:22:33:44:55" localhost/licencias.php<\n>
+<\n>curl -X POST -d "Usuario=usuarioInexistente&Contraseña=contraseñaInexistente&MAC=00:11:22:33:44:55" http://localhost/LicenceChecker/licencias.php<\n>
+<\n>curl -X POST -d "Usuario=usuarioInexistente&Contraseña=contraseñaInexistente&MAC=00:11:22:33:44:55" http://localhost/LicenseChecker/server.php
+<\n>curl -X POST -d "Usuario=usuarioInexistente&Contraseña=contraseñaInexistente&MAC=00:11:22:33:44:55" http://localhost/LicenceChecker/licencias.php<\n>
+<\n>curl -X POST -d "Usuario=usuarioInexistente&Contraseña=contraseñaInexistente&MAC=00:11:22:33:44:55" http://localhost/LicenseChecker/server.php
+<\n>curl -X POST -d "Usuario=usuarioInexistente&Contraseña=contraseñaInexistente&MAC=00:11:22:33:44:55" http://localhost/licencias.php<\n>
+clear
+ls
+cd Lice
+ls
+bash curl -X POST http://localhost/LicenseChecker/server.php \<\n>  -H "Content-Type: application/x-www-form-urlencoded" \<\n>  -d "Usuario=usuario1&Contraseña=pass123&MAC=00:11:22:33:44:55"<\n>
+bash
+nvim index.php 
+<\n>curl -X POST http://localhost/LicenseChecker/server.php -d "Usuario=usuario1&Contraseña=pass123&MAC=00:11:22:33:44:55"<\n>
+ls
+cd Lice
+python client.py 
+<\n>curl -X POST http://localhost/LicenseChecker/server.php -d "Usuario=usuario1&Contraseña=pass123&MAC=00:11:22:33:44:55"<\n>
+<\n>curl -X POST http://localhost/LicenseChecker/server.php -d "Usuario=carlossantiagocallgari@gmail.com&Contraseña=muriel&MAC=00:11:22:33:44:55"<\n>
+<\n>curl -X POST http://localhost/LicenseChecker/server.php -d "Usuario=carlossantiagocallgari@gmail.com&Contraseña=muriel&MAC="<\n>
+<\n>curl -X POST http://localhost/LicenseChecker/server.php -d "Usuario=%&Contraseña=%&MAC="<\n>
+python client.py 
+curl -X POST http://localhost:5000/LicenceChecker/server.php -H "Content-Type: application/json" -d '{"usuario": "nuevo_usuario", "password": "contraseña_segura", "mac": "00:11:22:33:44:15"}'
+curl -X POST http://localhost/LicenseChecker/server.php -H "Content-Type: application/json" -d '{"usuario": "nuevo_usuario", "password": "contraseña_segura", "mac": "00:11:22:33:44:15"}'
+curl -X POST http://localhost/LicenseChecker/server.php -H "Content-Type: application/json" -d '{"user": "aaaa"}'
+curl -X POST localhost/LicenseChecker/server.php -H "Content-Type: application/json" -d '{"user": "aaaa"}'
+nvim server.php
+ls
+rm server.php
+ls
+nvim server.py 
+flask --app server run
+sudo pacman -S python-mysql
+sudo pacman -S python-mariadb
+paru python-mysql
+sudo pacman -S python-mariadb
+flask --app server run
+sudo pacman -S python-dotenv
+flask --app server run
+nvim server.py 
+cd Lice
+ls
+clear
+cd Lice
+ls
+shutdown now
+sl
+ls
+cd Lice
+ls
+nvim server.py 
+curl -X POST localhost/LicenseChecker/server.php -H "Content-Type: application/json" -d '{"user": "aaaa"}'
+flask --app server run
+nvim server.py 
+flask --app server run
+nvim server.py 
+q
+nvim server.py 
+flask --app server run
+clear
+nvim server.py 
+flask --app server run
+nvim server.py 
+flask --app server run
+nvim server.py 
+ls
+flask --app server run
+git status
+git add -A
+git commit -m "Primer iteración del servidor de checkeo"
+git push
+shutdown now
+cd Lice
+ls
+rm -rf client.py users.db Licencias.db
+ls
+clear
+cd Lice
+nvim server.py 
+cd Lice
+ls
+curl -X POST http://localhost:5000/LicenceChecker/server.php -H "Content-Type: application/json" -d '{"usuario": "a", "password": "a", "admin_key": "5ODOM@ptpK6)yC:w13vqCmcG:NROeyD4bbhKXX!@uRejhfJy"}'
+curl -X POST http://localhost:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "a", "password": "a", "admin_key": "5ODOM@ptpK6)yC:w13vqCmcG:NROeyD4bbhKXX!@uRejhfJy"}'
+curl -X POST http://localhost:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "a", "password": "a", "mac": "5ODOM@ptpK6)yC:w13vqCmcG:NROeyD4bbhKXX!@uRejhfJy"}'
+curl -X POST http://localhost:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "a", "password": "a", "mac": "5ODOM@ptpK6)yC:w13vqCmcG:NROeyD4bbhKXX!@uRejhfJ"}'
+nvim server.py 
+cp .env .env.example
+nvim .env.example 
+git add -A
+git commit -m "Check working"
+git push
+nvim .env
+flask --app server run
+exit
+curl -X POST http://calligari.ar:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "a", "password": "a", "mac": "5ODOM@ptpK6)yC:w13vqCmcG:NROeyD4bbhKXX!@uRejhfJ"}'
+curl -X POST http://calligari.ar:1234/api/login -H "Content-Type: application/json" -d '{"usuario": "a", "password": "a", "mac": "5ODOM@ptpK6)yC:w13vqCmcG:NROeyD4bbhKXX!@uRejhfJ"}'
+curl -X POST http://calligari.ar:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "a", "password": "a", "mac": "5ODOM@ptpK6)yC:w13vqCmcG:NROeyD4bbhKXX!@uRejhfJ"}'
+curl -X POST http://144.217.91.178:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "a", "password": "a", "mac": "5ODOM@ptpK6)yC:w13vqCmcG:NROeyD4bbhKXX!@uRejhfJ"}'
+ssh ubuntu@recetas.tera.ar
+ssh ubuntu@tera.ar
+curl -X POST http://144.217.91.178:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "a", "password": "a", "mac": "5ODOM@ptpK6)yC:w13vqCmcG:NROeyD4bbhKXX!@uRejhfJ"}'
+ssh ubuntu@calligari.ar
+shutdown now
+cd Descargas/
+ssh -i "newestrategica.pem" ec2-user@ec2-52-6-162-32.compute-1.amazonaws.com 
+ssh -i "newestrategica.pem" ec2-user@ec2-54-205-39-206.compute-1.amazonaws.com
+cd Descargas/
+ssh -i "newestrategica.pem" ec2-user@ec2-54-205-39-206.compute-1.amazonaws.com
+histroy
+history
+pdf-crop-margins
+paru pdf-crop-margins
+paru pdfcropmargins
+cd Descargas/
+pdf-crop-margins -o out.pdf -p -13 -a5 $left $bottom $right $top `LADR4e (1).pdf`
+mv `LADR4e (1).pdf` LADR.pdf
+pdfjam --left-margin 13mm input.pdf --outfile output.pdf
+pdfjam --left-margin 13mm LADR.pdf --outfile output.pdf
+sudo pacman -S texlive-extra-utils
+paru texlive-extra-utils
+pdfjam
+ls -la LADR.pdf
+~/Descargas<\n>└─> pdfjam --left-margin 13mm LADR.pdf --outfile output.pdf<\n>          ----<\n>  pdfjam: This is pdfjam version 3.10.<\n>  pdfjam: Reading any site-wide or user-specific defaults...<\n>          (none found)<\n>  pdfjam: Effective call for this run of pdfjam:<\n>          /usr/bin/pdfjam --left-margin '13mm' --outfile output.pdf -- LADR.pdf -<\n>  pdfjam: Calling /usr/bin/pdflatex...<\n>  pdfjam: FAILED.<\n>          The call to /usr/bin/pdflatex resulted in an error.<\n>          If '--no-tidy' was used, you can examine the<\n>          log file at<\n>                  /tmp/pdfjam-kNiuzH/a.log<\n>          to try to diagnose the problem.<\n>  pdfjam ERROR: Run 1: Output file not written
+sudo pacman -S pdfcrop
+pdfcrop
+ls
+ls -la LADR.pdf
+pdfcrop --margin "13 0 0 0" LADR.pdf output.pdf
+pdfjam --left-margin 13mm LADR --outfile output.pdf --no-tidy
+pdfjam --left-margin 13mm LADR.pdf --outfile output.pdf --no-tidy
+pdflatex
+sudo pacman -S ghostscript --as-deps
+sudo pacman -S ghostscript --asdeps
+gs -sDEVICE=pdfwrite -dBATCH -dNOPAUSE -sOutputFile=output.pdf -c "<</PageOffset [36.85 0]>> setpagedevice" -f LADR.pdf
+ls
+clear
+ls
+rm output.pdf
+gs -sDEVICE=pdfwrite -dBATCH -dNOPAUSE -sOutputFile=output.pdf -c "<</PageOffset [36.85 0]>> setpagedevice" -f LADR.pdf
+rm output.pdf
+gs -o output.pdf -sDEVICE=pdfwrite -dDEVICEWIDTHPOINTS=608.85 -dDEVICEHEIGHTPOINTS=792 -dFIXEDMEDIA -c "<</PageOffset [36.85 0]>> setpagedevice" -f LADR.pdf
+ssh -p5264 root@179.43.127.109
+cd Descargas/
+ls
+pdf-crop-margins -o out.pdf -p -13 -a5 100 0 0 0 LADR.pdf
+pdf-crop-margins -o out.pdf -p 100 -a4 100 0 0 0
+pdf-crop-margins -o out.pdf -p 100 -a4 100 0 0 0 LADR.pdf
+pdf-crop-margins -o out.pdf -p 100 -a4 -100 0 0 0 LADR.pdf
+sudo fusee-nano hekate_ctcaer_6.2.0_Nyx_1.6.2_v4/hekate_ctcaer_6.2.0.bin 
+cd Descargas/
+ssh -i "newestrategica.pem" ec2-user@ec2-54-205-39-206.compute-1.amazonaws.com
+sudo fusee-nano hekate_ctcaer_6.2.0_Nyx_1.6.2_v4/hekate_ctcaer_6.2.0.bin 
+shutdown now
+curl -X POST http://144.217.91.178:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "a", "password": "a", "mac": "5ODOM@ptpK6)yC:w13vqCmcG:NROeyD4bbhKXX!@uRejhfJ"}'
+curl -X POST http://144.217.91.178:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "a", "password": "a", "admin_key": "abc"}'
+curl -X POST http://144.217.91.178:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "a", "password": "a", "admin_key": "abc"}'
+curl -X POST http://144.217.91.178:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "a", "password": "a", "admin_key": "abc"}'
+curl -X POST http://144.217.91.178:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "abc"}'
+curl -X POST http://144.217.91.178:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "abc"}'
+curl -X POST http://144.217.91.178:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "a", "password": "a", "mac": "11:11:11:11:11"}'
+curl -X POST http://144.217.91.178:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "mac": "11:11:11:11:11"}'
+cd
+cd Descargas/
+ls
+cd Descargas/
+ls
+pdf-crop-margins -o out.pdf -p 100 -a4 0 0 -100 0 LADR.pdf
+shutdown now
+cd Descargas/
+ssh -i "newestrategica.pem" ec2-user@ec2-54-205-39-206.compute-1.amazonaws.com
+cd Descargas/
+ssh -i "newestrategica.pem" ec2-user@ec2-54-205-39-206.compute-1.amazonaws.com
+shutdown now
+cd Descargas/
+unrar
+rar
+sudo pacman -S unrar
+unrar 'Everybody 1-2-Switch! [01006F900BF8E000]+[v1.0.1][US](SuperXCI).xci.rar'
+cd /run/media/santiago/45F6-B237/
+ls
+sudo rm SafeB9SInstaller-20170605-122940.zip
+sudo fdisk -l
+sudo fdisk /dev/sda1
+mkfs.fat -F 32 /dev/sda1
+sudo pacman -S dosfstools
+mkfs.fat -F 32 /dev/sda1
+sudo mkfs.fat -F 32 /dev/sda1
+umount /dev/sda1
+sudo mkfs.fat -F 32 /dev/sda1
+sudo pacman -S ktorrent
+shutdown now
+sudo fdisk -l
+sudo mkfs.fat -F 32 /dev/sda1
+sudo fdisk -l
+sudo fdisk /dev/sda1
+sudo fdisk -l
+sudo fdisk /dev/sda1
+bash
+sudo mkfs.fat -F 32 -s 64 /dev/sda1
+shutdown now
+nu config
+nu conf
+config nu
+clear
+exit
+ld
+ls
+grid -i
+ls | grid -i
+config nu
+ls | grid -i
+ls
+config nu
+ls -i
+ls
+ls --help
+config nu
+ls
+cd config
+ls
+cd nvim
+ls
+cd lua
+ls
+cd config/
+ls
+cd ..
+ls
+cd plugins/
+ls
+npm install -g swagger-ui-watcher
+sudo npm install -g swagger-ui-watcher
+nvim swagger-preview.lua
+cd
+ls
+cd Trabajo
+ls
+cd RecetasElectronicas/
+ls
+git pull
+git checkout origin/api_documentation 
+git checkout HEAD~
+ls
+git branch -l
+git branch master
+git status
+git checkout origin/api_documentation 
+ls
+cd ..
+ls
+rm -rf RecetasElectronicas/
+git clone git@github.com:CoopTera/RecetasElectronicas.git
+ls
+cd RecetasElectronicas/
+ls
+git checkout api_documentation
+ls
+git status
+cd RecetasElectronicas/
+ls
+cd ..
+ls
+shutdown now
+history | grep 51
+history | grep 51.79
+ssh root@51.79.175.158
+reboot
+ssh root@51.79.175.158
+shutdown now
+ls
+clear
+ls
+rm 11*
+los
+ls
+clear
+ls
+ls t
+rm -rf barismo temp t intelephense/
+ls
+ls -la
+ls -lah
+ls -lad
+ls -lad .local
+ls -lad .local/share
+ls -lad .local/share/libvirt
+ls -lad .local/share/libvirt/images
+rm -rf .local/share/libvirt/
+clear
+ls
+clear
+ls -lad
+cd Escritorio/
+ls
+ls -la
+ls -lad
+rm -rf Nintendo/ backup* switch
+ls
+ls -lad
+ls 3ds
+cd ..
+ls
+clear
+ls
+ls `Capturas de pantalla/`
+ls
+sudo pacman -S tmux
+exit
+tmux
+tmux new-session \; \<\n>  split-window -h -p 66 \; \<\n>  split-window -v -p 66 \; \<\n>  split-window -v -p 50 \; \<\n>  select-pane -t 0
+tmux new-session `; split-window -h -p 66 '; split-window -v -p 66 '; split-window -v -p 50 '; select-pane -t 0`
+exit
+tmux new-session ';' <\n>    split-window -h -p 66 ';' <\n>    split-window -v -p 66 ';' <\n>    split-window -v -p 50 ';' <\n>    select-pane -t 0
+exit
+exit
+exit
+exit
+tmux new-session ';'     split-window -h -p 66 ';'     split-window -v -p 66 ';'     split-window -v -p 50 ';' select-pane -t 0
+:q
+exit
+exit
+exit
+exit
+tmux new-session ';' split-window -h -p 50 ';' split-window -v -p 33 ';' split-window -v -p 50 ';' select-pane -t 0
+tmux kill-session -a
+xeb
+xev
+sudo pacman -S xev
+sudo pacman -S xkb-switch
+paru xkb-switch
+clear
+ls
+sudo pacman -S xkb-switch
+sudo pacman -Syuu
+paru
+yay
+clear
+paru
+sudo pacman -S git base-devel
+sudo ln -s /usr/lib/libalpm.so.15.0.0 /usr/lib/libalpm.so.14
+paru
+cargo updagte
+cargo update
+sudo pacman -S cargo
+ls
+paru yaya
+paru yay
+sudo pacman -Rncs paru
+ls
+clear
+yay 
+yay xkb-switch
+sudo nvim /usr/share/X11/xkb/symbols/custom
+sudo nano /usr/share/X11/xkb/rules/evdev
+sudo nvim /usr/share/X11/xkb/rules/evdev
+clear
+ls
+xev
+reboot
+paru xev
+yay xeb
+yay xev
+wev
+cargo install xremap --features kde
+sudo pacman -Rncs rust
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+sudo pacman -Rncs rust
+sudo pacman -Rncs cargo
+sudo pacman -Rncs cargo-clippy 
+clear
+ls
+ls -la
+rm -rf .rustup/
+clear
+sudo pacman -Rncs cargo-clippy 
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+exit
+tmux
+exit
+cargo install xremap --features kde
+cd .config
+ls
+mkdir xremap
+cd xremap
+nvim config.yml
+sudo xremap config.yml
+ls
+config nu
+ls
+cd ..
+ls
+nvim nushell/env.nu 
+config nu
+$env.PATH
+ls
+ls -la
+.cargo
+ls
+cd
+cargo install xremap --features kde
+xremap
+reboot
+cd .config/xremap/
+ls
+sudo xremap
+ls
+yay xremap
+sudo xremap config.yml
+ls
+nvim config.yml
+sudo xremap config.yml
+nvim config.yml
+sudo xremap config.yml
+nvim config.yml
+sudo xremap config.yml
+nvim config.yml
+sudo xremap config.yml
+sudo xremap config.yml &
+xremap config.yml 
+lsmod | grep uinput
+sudo nvim /etc/modules-load.d/uinput.conf
+sudo echo 'KERNEL=="uinput", GROUP="input", TAG+="uaccess"' | sudo tee /etc/udev/rules.d/99-input.rules
+reboot
+cd .config/xremap/
+xremap config.yml 
+xremap config.yml --device
+sudo tail -f /dev/input/event0 
+nvim config.yml
+xremap config.yml
+nvim config.yml
+sudo xremap config.yml &
+sudo xremap config.yml 
+ls
+sudo nvim /etc/udev/rules.d/99-input.rules 
+rm /etc/udev/rules.d/99-input.rules
+sudo rm /etc/udev/rules.d/99-input.rules
+reboot
+shutdown now
+cd trenet
+ls
+clear
+ls
+cd Trabajo
+ls
+cd clorox
+ls
+history | grep trenet
+history | grep ftp
+history | grep sftp
+history | grep tera.coop.ar
+history | grep 51.79
+clear
+ls
+bash
+ftp
+sftp
+sudo pacman -S ftp
+sudo pacman -S filezilla
+sudo pacman -S filezilla --as-deps
+sudo pacman -S filezilla --asdeps
+cd tunota
+ls
+cd ..
+ls
+cd ..
+ls
+rm -rf TuNota
+ls
+mkdir TuNota
+cd Tunota
+git@github.com:Tu-Nota/tunota-backend.git
+git clone git@github.com:Tu-Nota/tunota-backend.git
+ls
+cd tunota-backend/
+ls
+nvim .env.example 
+ls
+nvim appspec.yml 
+grep -R laravel
+grep -R laravel | grep version
+nvim .env.example 
+composer install
+composer update
+composer install
+php artis
+php artisan key:generate
+cd Descargas/
+ls
+php artisan passport:install
+php artisan migrate
+nvim .env
+php artisan migrate:install
+php artisan passport:install
+cd Descargas/
+nvim tunotadev_13_09_2024.sql 
+sudo pacman -S postman
+yay postman
+cd tunota
+ls
+cd ..
+ls
+git clone git@github.com:Tu-Nota/tunota-frontend
+cd tunota-frontend/
+ls
+nvim .env.example 
+yarn install
+yarn dev
+yarn dev --port 3001
+yarn dev
+nvim .env
+yarn dev
+nvm use 16.1
+sudo pacman -Rncs nvm
+which nvm
+sudo rm /usr/bin/nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+export NVM_DIR="$HOME/.nvm"
+exit
+cd front
+nvm use 16.1
+nvm
+which nvm
+ls
+cd back
+ls
+bash
+cd ..
+sl
+ls
+git clone git@github.com:Tu-Nota/tunota-dashboard
+ls
+cd tunota-dashboard/
+ls
+nvim .env
+nvim tunota.txt
+cat tunota.txt 
+nvim .env_example
+cd dash
+nvim .env_example
+ls
+cd
+ls
+cd Documentos/Trabajo/TuNota/tunota-dashboard/
+cd
+ls
+cd dash
+cd prog
+cd dash
+ls
+nvim .env
+ls
+cat .env 
+cat .env_example 
+bash
+exit
+history | grep ftp
+ftp admin_tera@66.97.47.139 
+sudo pacman -S filezilla --asdeps
+reboot
+bash
+curl -X POST http://144.217.91.178:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "mac": "11:11:11:11:11"}'
+ssh ubuntu@calligari.ar
+ls
+ssh ubuntu@calligari.ar
+curl -X POST http://144.217.91.178:5000/api/login -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "mac": "11:11:11:11:11"}'
+ls
+cd from
+ls
+cd from_clorox/
+ls
+unzip trenet.com.ar-next-main.zip 
+ls
+cd trenet.com.ar-next-main/
+ls
+cd ..
+ls
+git clone git@github.com:CoopTera/Trenet.git
+mv trenet.com.ar-next-main/* Trenet/
+ls
+mv trenet.com.ar-next-main/.* Trenet/
+ls
+ls -la trenet.com.ar-next-main/
+cd Trenet
+ls
+git add -A 
+git commit -m "first commit"
+yarn install
+nvm use 16.1
+nvm use 16.14
+clear
+ls
+bash
+yarn install
+exit
+cd Trenet
+ls
+cd Trenet
+grep -R onetrust
+grep -R onetrust .
+grep -R cookies
+ls
+ls trenet.com.ar-next-main/
+rm -rf trenet.com.ar-next-main/
+ls
+clear
+ls
+grep -R onetrust .
+grep -R onetrust
+grep -R one
+grep -R trust
+grep -R OneTrust
+nvim src/pages/_document.jsx 
+clear
+ls
+grep -R OneTrust
+nvim 
+git commit -am "Deleted cookies"
+git add -A 
+git commit -m "delete cookoies"
+ls
+rm -rf node_modules/
+git add -A 
+git commit -m "delete cookoies"
+yarn install
+ls
+bash
+rm -rf .git/hooks/
+git commit -am "delete cookoies"
+ls
+nvim package.json 
+rm -rf node_modules/
+bash
+git commit -am "delete cookoies"
+rm -rf .git/hooks/
+git commit -am "delete cookoies"
+git commit -amf "delete cookoies"
+ls
+clear
+ls
+grep -R husky
+rm -rf node_modules/
+rm package-lock.json
+rm -rf .husky
+ls
+clear
+grep -R husky
+rm -rf .git/config
+ls
+bash
+git commit -amf "delete cookoies"
+git commit -am "delete cookies"
+git push
+git remote add origin git@github.com:CoopTera/Trenet
+git push
+git push main
+git push --set-upstream origin main
+git push
+ssh ubuntu@calligari.ar
+ssh ubuntu@tera.ar
+sftp ubuntu@tera.ar
+ssh ubuntu@tera.ar
+ls
+cd from_clorox/
+ls
+rm -rf Trenet/
+ls
+tar -xfz Trenet.tar.gz
+tar -xzf Trenet.tar.gz
+ls
+cd Trenet
+ls
+npm install
+npm run dev
+yarn install
+bash
+ls
+sudo pacman -S filezilla --asdeps
+filezilla
+sftp ubuntu@tera.ar
+bash
+exit
+yarn dev
+ls
+yarn install
+exit
+sudo pacman -S qemu
+sudo pacman -S libvirt
+sudo systemctl enable --now libvirtd
+exit
+reboot
+sudo pacman -S virt-manager virt-viewer qemu edk2-ovmf vde2 ebtables dnsmasq bridge-utils openbsd-netcat libguestfs
+groups
+sudo fdisk -l
+sudo fdisk /dev/sda1
+sudo fdisk /dev/sda
+sudo mkfs.ntfs /dev/sda1
+sudo mkfs.ext4 /dev/sda
+sudo mkfs.ext4 /dev/sda1
+ls .local/share/libkunitconversion/
+mkdir .local/share/libvirt
+mkdir .local/share/libvirt/images
+sudo virt-manager
+ls
+cd Descargas/
+ls
+sudo dd if=ventoy-1.0.99-livecd.iso  of=/dev/sda status=progress
+sudo pacman -S ventoy
+yay ventoy --asdeps
+cd Escritorio/
+cd ventoy-1.0.99/
+ls
+./VentoyWeb.sh
+reboot
+cd 
+cd ventoy-1.0.99/
+cd ventoy
+ls
+sudo ./VentoyWeb.sh
+reboot
+sudo virt-manager
+virt-manager 
+sudo fdisk /dev/sda
+sudo fdisk -l
+sudo fdisk /dev/sda
+mkfs.fat -F 32 /dev/sda1
+sudo mkfs.fat -F 32 /dev/sda1
+reboot
+reboot now
+ls
+sudo virt-manager
+sudo fdisk /dev/sda
+sudo mkfs.fat -F 32 /dev/sda1
+cd Descargas/
+ls
+sudo dd if=manjaro-kde-24.1.0-241001-linux610.iso of=/dev/sda status=progress
+sudo virt-manager
+ls
+cd recetas
+ls
+php artisan install:api --passport
+ls
+composer install passport
+composer require passport
+clear
+ls
+php artisan passport:install
+ls
+cd ..
+ls
+rm -rf RecetasElectronicas/
+ls
+git clone git@github.com:CoopTera/RecetasElectronicas.git
+cd RecetasElectronicas/
+ls
+composer install
+cp .env.example .env
+ls
+nvim .env
+php artisan key:generate
+php artisan passport:install
+php artisan install:api --passport
+php artisan key:generate
+php artisan migrate
+php artisan db:seed
+history | grep passport
+history | grep artisan
+php artisan passport:keys
+php artisan passport:keys -f
+php artisan passport:keys
+php artisan passport
+php artisan passport:keys
+php artisan passport:keys --force
+cat .env
+php artisan passport:client
+git add -A
+git commit -m "added passport"
+git push
+ls
+cd 
+ls
+cd trenet
+ls
+yarn dev
+yarn install
+bash
+screen -S yarn
+grep -R "Política de "
+grep -R "Política"
+grep -R Política
+grep -R "de uso"
+nvim src/pages/index.jsx 
+git add -A
+git commit -m "Center footer"
+git push
+screen -r
+ip ad
+nvim 
+git commit -am "Fix font size"
+git push
+cd trenet
+nvim 
+ssh ubuntu@tera.ar
+shutdown now
+ls
+cd recetas
+ls
+nvim 
+php artisan passport:client
+ls
+cd tunota
+ls
+nvim .env 
+ls
+php artisan serve
+php artisan serve
+cd tunota
+nvim README.md 
+exit
+cd recetas
+ls
+php artisan passport:install
+php artisan migrate:fresh
+clear
+cd tunot
+composer install
+php artisan key:generate
+php artisan migrate:install
+php artisan migrate
+nvim database/migrations/
+php artisan migrate:install
+php artisan migrate:fresh
+php artisan db:sed
+php artisan db:seed
+nvim database/migrations/
+php artisan passport:install
+php artisan passport:install --force
+ls
+ls database/migrations/
+cd migrations
+ls
+cd database/migrations
+ls
+rm -r *10_8*
+rm *10_8*
+rm 10_8
+rm 2024_10_08*
+ls
+cd ..
+ls
+cd migrations/
+ls
+rm -rf *
+ls
+cd ..
+ls
+cd
+cd recet
+php artisan passport:install 
+php artisan passport:install --force
+ls
+php artisan passport:install --force
+ls
+rm -rf database/migrations/*
+php artisan passport:install --force
+rm -rf database/migrations/*
+php artisan passport:install --force
+ls
+cd ..
+ls
+rm -rf RecetasElectronicas/
+git clone git@github.com:CoopTera/RecetasElectronicas.git
+ls
+cd RecetasElectronicas/
+ls
+composer install
+nvim .env.example 
+php artisan migrate
+ls
+nvim .env.example 
+php artisan migrate
+ls
+php artisan passport:install
+ls
+rm -rf database/migrations/*
+php artisan passport:install
+lx
+ls
+git reset --hard HEAD~1
+ls
+clear
+ls
+php artisan serve
+php artisan key:generate
+php artisan migrate
+ls
+git log --oneline
+ls
+clear
+ls
+git reset --hard HEAD
+ls
+clear
+ls
+composer install
+php artisan migrate
+ks
+cd ..
+ls
+git clone git@github.com:CoopTera/RecetasElectronicas.git
+cd RecetasElectronicas/
+ls
+git reset --hard HEAD~1
+ls
+composer install
+cp .env.example .env
+nvim .env
+php artisan ke
+php artisan key
+php artisan migrate
+php artisan db:seed
+php artisan passport:install
+nvim README.md 
+ls
+composer require laravel/passport
+php artisan passport:install
+ls
+clear
+cd ..
+ls
+rm -rf RecetasElectronicas/
+git clone git@github.com:CoopTera/RecetasElectronicas.git
+cd RecetasElectronicas/
+ls
+composer install
+ls
+cp .env.example .env
+nvim .env
+php artisan migrate
+php artisan db:seed
+ñs
+php artisan passport:install
+ls
+rm -rf database/migrations/*
+ls vendor/laravel/passport/database/migrations/
+php artisan passport:install
+clear
+php artisan passport:install
+php artisan migrate:rollback
+php artisan passport:install
+php migrate:fresh
+php artisan migrate:fresh
+php artisan migrate:refresh
+ls
+clear
+rm -rf database/migrations/*
+php artisan migrate:refresh
+php artisan passport:install
+php artisan database:wipe
+php artisan db:wipe
+composer dump-autoload -o
+php artisan passport:install
+ls
+git reset --hard HEAD~1
+ls
+git push --force
+cd ..
+ls
+rm -rf RecetasElectronicas/
+git clone git@github.com:CoopTera/RecetasElectronicas.gi
+git clone git@github.com:CoopTera/RecetasElectronicas.git
+cd RecetasElectronicas/
+ls
+cp .env.example .env
+cd plugins
+ls
+nvim
+nvim .env 
+ls
+composer install
+php artisan key:generate
+php artisan serve
+php artisan migrate
+nvim .env 
+php artisan migrate
+php artisan serve
+ls
+composer require laravel/passport
+php artisan passport:install
+exit
+cd recetas
+ls
+cd ..
+ls
+rm -rf RecetasElectronicas/
+git clone git@github.com:CoopTera/RecetasElectronicas.git
+ls
+cd RecetasElectronicas/
+ls
+composer install
+php artisan key:generate
+cp .env.example .env
+nvim .env
+clear
+ls
+php artisan key:generate
+php artisan migrate
+ls
+rm database/migrations/2024_09_02_165304_create_personal_access_tokens_table.php
+ls
+php artisan db:wipe
+php artisan install:api --passport
+ls
+git log --oneline
+exit
+cd RecetasElectronicas/
+ls
+cd ..
+ls
+cd ..
+lr
+cd ..
+rm -rf RecetasElectronicas/
+ls
+git clone git@github.com:CoopTera/RecetasElectronicas.git
+cd Rece
+ls
+composer install
+cp .env.example .env
+nvim .env 
+php artisan key:generate
+php artisan migrate
+php artisan install:api --passport
+nvim app/Models/User.php 
+cd tunota.txt
+cd tuno
+ls
+nvim config/auth.php 
+php artisan passport:keys
+php artisan passport:keys --force
+php artisan vendor:publish --tag=passport-config
+nvim app/Providers/AppServiceProvider.php 
+php artisan passport:client
+nvim clientsecret
+nvim .gitignore 
+ls
+git status
+git add -A 
+git commit -m "passport installed"
+git push
+cat clientsecret 
+git push
+cd recet
+ls
+sudo blkid
+sudo fdisk -l
+cd tun
+ls
+cd ree
+cd rec
+ls
+cd tuno
+nvim
+nvim config/app.php 
+nvim
+nvim config/app.php 
+cd tuno
+grep -R sanctum
+php artisan install:api
+clear
+ls
+nvim routes/api.php 
+clear
+ls
+cd ..
+ls
+cd RecetasElectronicas/
+ls
+nvim config/app.php 
+nvim config/auth.php 
+nvim
+ls
+nvim 
+php artisan migrate:fresh
+php artisan migrate:refresh
+composer install
+s
+ls
+git status
+cd ..
+ls
+php artisan serve
+rm -rf RecetasElectronicas/
+rm -rf RecetasElectronicas
+ls
+git clone git@github.com:CoopTera/RecetasElectronicas.git
+cd RecetasElectronicas/
+ls
+cp .env.example .env
+nvim .env 
+ls
+git log --oneline
+git reset --hard HEAD~1
+ls
+git status
+ls
+ls database/migrations/
+rm database/migrations/2024_09_02_165304_create_personal_access_tokens_table.php
+ls
+composer require laravel/passport
+php artisan migrate
+php artisan passport:install
+ls
+nvim clientsecret
+nvim .gitignore 
+nvim config/app.php 
+nvim config/auth.php 
+cat clientsecret 
+php artisan serve
+php key:generate
+php artisan key:generate
+php artisan optimize:clear
+php artisan route
+php artisan route:cache
+php artisan config:clear
+php artisan route:cache
+composer dump-autoload 
+ls
+git status
+nvim config/auth.php 
+nvim config/app.php 
+composer dump-autoload 
+nvim config/app.php 
+composer dump-autoload 
+nvim config/app.php 
+composer dump-autoload 
+php artisan serve
+ls
+cd rec
+php artisan key:generate
+cd rec
+ls
+nvim routes/auth.php 
+ls
+nvim routes/api.php 
+nvim routes/auth.php 
+ls
+cd rec
+ls
+nvim 
+ls
+cat clientsecret 
+shutdown now
+ls
+cd rece
+ls
+git status
+git add -A
+git commit -m "passport installed"
+git push
+git push --force
+shutdown onw
+shutdown now
+cd recet
+ls
+cd rece
+ls
+cd rece
+ls
+grep -R laravel
+php artisan --versino
+php artisan --version
+history | grep keys
+php artisan passport:keys
+cd rece
+ls
+sudo fdisk /dev/sda
+clear
+sudo virt-manager
+cd rece
+ls
+git pull
+sudo pacman -S kde-connect
+paru kde-connect
+yay kde-connect
+sudo pacman -S kdeconnect
+sudo pacman -S python-nautilus qt6-tools sshfs
+cd recels
+cd rece
+cd tuno
+ls
+cd rece
+ls
+php artisan serve
+shutdown now
+ssh root@192.99.15.139 
+nmap -sS 192.168.100.0/24
+sudo nmap -sS 192.168.100.0/24
+ssh root@192.100.129
+reboot
+ssh root@192.100.129
+ssh root@192.100.168.129
+sudo systemctl enable --now cups
+ssh root@192.168.100.129
+history | grep pantum
+paru pantum
+cd Des
+ls
+mv pantum-p2518-ppd.txt pantum-p2518-ppd
+mv pantum-p2518-ppd pantum-p2518.ppd
+nvim "/usr/share/cups/model/Pantum/Pantum P2518NW Series.ppd" 
+clear
+shutdown now
+cd Rece
+ls
+git status
+git reset --hard HEAD~1
+ls
+cd Rece
+ls
+git switch develop 
+ls
+git status
+ls
+nvim .gitignore 
+git switch master
+git log
+git push --force
+git switch develop 
+ls
+composer require laravel/passport
+nvim .env
+php artisan migrate
+php artisan passport:install
+nvim clientsecret 
+nvim app/Models/User.php 
+n
+n --help
+n
+nvim config/auth.php 
+php artisan passport:keys
+php artisan passport:keys --force
+php artisan passport:client
+nvim clientsecret 
+ls
+git add -A
+git commit -m "passport installed"
+git push
+ls
+nvim documentation.yaml
+ls
+git add -A
+git log --oneline
+git status
+git commit -m "register added on documentation"
+nvim documentation.yaml
+ls
+clear
+ls
+nvim todorecetas
+ls
+cd rece
+ls
+git log --oneline
+nvim documentation.yaml 
+ls
+cd Descargas
+ls
+cd Descargas
+sudo pacman -S firefox
+git add -A
+git status
+nvim database/migrations/0001_01_01_000000_create_users_table.php 
+git add -A
+git status
+nvim app/Models/User.php 
+git add -A
+git commit -m "Documentation, /users/id/profile post added"
+git push
+git pull
+git pull --ff-only
+git rebase
+git status
+nvim documentation.yaml 
+git status
+ls
+git rebase --abort
+ls
+cat documentation.yaml 
+ls
+cp documentation.yaml ../
+rm documentation.yaml
+git add -A
+git pull
+git pull --rebase
+git status
+git reset --hard HEAD
+ls
+git status
+git pull
+git pull --ff-only
+git reset --hard HEAD
+git pull --rebase
+git status
+nvim documentation.yaml 
+git pull --rebase
+git add -A
+git commit -m "fix conflicts"
+git pull
+git pull origin develop
+cp ../documentation.yaml .
+ls
+nvim documentation.yaml 
+git add -A
+git rebase
+git rebase --continue
+ls
+git statua
+git status
+git log --oneline
+git status
+git push
+ls
+php artisan make:migration professional_profile
+nvim database/migrations/2024_10_16_185409_professional_profile.php 
+php artisan migrate --pretend
+php artisan migrate
+git add -A 
+git commit -m "Created migration of professional profile"
+php artisan make:model 
+cd estra
+ls
+nvim app/Models/User.php 
+cd estra
+cd Rece 
+ls
+cd app/
+ls
+cd Requests/
+ls
+mv *php Professional/
+ls
+cd
+ls
+exit
+config nu
+ls
+exit
+ls
+exit
+nvim app/Models/ProfessionalProfile.php 
+cd app/
+ls
+cd Http/
+ls
+cd Requests/
+ls
+mv *php Professional/
+cd ..
+ls
+cd ..
+ls
+nvim
+cd des
+ls
+nvim "OT Santiago Calligari - AYUDIN - POETT-TRENET.csv" 
+nvim "OT Santiago Calligari - AYUDIN - POETT-TRENET.csv" }
+sudo pacman -S steam
+exit
+git matrixc
+reboot
+ip ad
+cd
+ls
+cd recel
+cd rece
+ls
+git status
+ls
+shutdown now
+cd rece
+ls
+git status
+nvim app/Http/Requests/Professional/StoreProfessionalProfileRequest.php 
+ls
+cd .local/
+ls
+cd share/
+ls
+rm -rf nvim
+clear
+ls
+nvim
+cd 
+cd plugins
+ls
+nvim laravel.lua 
+cd pl
+ls
+nvim laravel.lua 
+nvim 
+cd pl
+ls
+nvim app/Http/Requests/Professional/StoreProfessionalProfileRequest.php 
+cd est
+ls
+git log
+ls
+nvim app/Models/Professional/ProfessionalProfile.php 
+cd est
+ls
+cd tuno
+ls
+nvim app/Models/City.php 
+nvim 
+cd Recetas
+ls
+cd est
+ls
+cd tuno
+ls
+cd tuno
+nvim 
+git add -A
+git commit -m "Store function created"
+git status
+git diff
+git diff origin
+git reset --hard HEAD
+nvim app/Http/Controllers/Professional/ProfessionalProfileController.php 
+git status
+git diff
+git add -A
+git commit -m "Store function created"
+git fetch origin<\n>git checkout 2-crear-migraciones-modelo-controlador-y-rutas-de-professionalprofile
+gitk
+$ git log --oneline --graph --decorate --all<\n>
+$ git log --oneline --graph --decorate --all<\n>
+git log --oneline --graph --decorate --all<\n>
+git fetch origin<\n>git checkout 2-crear-migraciones-modelo-controlador-y-rutas-de-professionalprofile
+$ git log --oneline --graph --decorate --all<\n>
+git log --oneline --graph --decorate --all<\n>
+cd Desc
+ls
+git status
+git stash
+git checkout develop
+<\n>git reset --hard 014bbfb
+git checkout 2-crear-migraciones-modelo-controlador-y-rutas-de-professionalprofile<\n>git reset --hard d63d675
+git log --oneline --decorate --graph --all
+git status
+git push
+git pull
+php artisan migrate:fresh
+nvim routes/api.php 
+nvim clientsecret 
+php artisan serve
+git pull
+nvim app/Providers/AppServiceProvider.php README.md 
+ls
+cd rece
+cat clientsecret 
+php artisan passport:install 
+clear
+ls
+php artisan passport:client --help
+php artisan passport:client --password
+php artisan routes
+php artisan route:list
+nvim app/Http/Requests/StoreUserRequest.php 
+composer install
+php artisan migrate:fresh
+git status
+git reset --hard HEAD
+php artisan migrate:fresh
+git status
+rm database/migrations/2024_10_17_20*
+git status
+php artisan migrate:fresh
+php artisan db:seed
+git checkout origin/1-autenticar-usuario 
+git checkout 2-crear-migraciones-modelo-controlador-y-rutas-de-professionalprofile 
+nvim .env 
+php artisan db:seed
+php artisan db:wipe
+php artisan migrate
+php artisan db:seed
+nvim .env.example 
+nvim .env
+php artisan migrate:fresh --seed
+cd rece
+php artisan passport:client --help
+php artisan passport:client --personal
+cd estr
+cd rece
+ls
+database/migrations/2024_10_16_185409_professional_profile.php
+php artisan migrate:fresh --path=database/migrations/2024_10_16_185409_professional_profile.php
+php artisan migrate:fresh
+php artisan db:seed
+php artisan passport:client --personal
+cd rece
+ls
+php artisan migrate:refresh --path=database/migrations/2024_10_16_185409_professional_profile.php
+git add -A
+git commit -m "professionalprofile migrations, model, controller and routes are working"
+git push
+shutdown now
+ls
+sudo pacman -S filezilla --asdeps
+history | grep flask
+shutdown now
+cd rece
+git pull
+ls
+nvim documentation.yaml 
+git add -A
+git commit -m "Added descriptions on fields of fill data"
+git push
+php artisan make:model File -mcR
+php artisan model:show
+php artisan model:show File
+php artisan model:show ProfessionalProfile
+php artisan model:show ProfileProfessional
+ls app/model
+ls app/models
+ls app/Models/
+ls
+cd app/
+ls
+cd Models/
+ls
+cd Professional/
+ls
+nvim ProfessionalProfile.php 
+cd  .
+cd ..
+ls
+mv Professional/ Profiles
+ls
+cd Profiles/
+ls
+nvim ProfessionalProfile.php 
+php artisan serve
+cd ..
+ñs
+ls
+cd ree
+cd rece
+ls
+php artisan serve
+ls
+git status
+ls
+cd app/Http/
+ls
+cd Requests/ls
+cd Requests/
+ls
+mv Professional/ Profiles
+ls
+nvim Profiles/StoreProfessionalProfileRequest.php 
+ls
+clear
+ls
+nvim
+git status
+git add app/*
+cd rece
+git add app/*
+ls
+git status
+git rm app/Models/File.php 
+git rm app/Models/File.php  --caches
+git rm app/Models/File.php  --cached
+ls
+git status
+git rm app/Http/Controllers/FileController.php 
+git rm app/Http/Controllers/FileController.php  --cached
+ls
+git status
+git commit -m "Change on profiles"
+git status
+git reset --hard HEAD
+git status
+ls
+nvim app/Models/File.php 
+php artisan migrate:refresh --path=database/migrations/2024_10_16_185409_professional_profile.php
+nvim database/migrations/2024_10_16_185409_professional_profile.php 
+php artisan migrate
+php artisan migrate:fresh
+nvim database/migrations/2024_10_16_185409_professional_profile.php 
+php artisan migrate:fresh
+php artisan make:migration add_foreign_keys_professional_profile
+nvim database/migrations/2024_10_22_181552_add_foreign_keys_professional_profile.php 
+php artisan migrate:fresh
+nvim database/migrations/2024_10_22_181552_add_foreign_keys_professional_profile.php 
+php artisan migrate:fresh
+nvim database/migrations/2024_10_22_181552_add_foreign_keys_professional_profile.php 
+php artisan migrate:fresh
+ls
+git status
+git add -A 
+git commit -m "Created migration controller and model of File"
+ls
+nvim app/Models/Profiles/ProfessionalProfile.php 
+php artisan serve
+git add .A 
+git add .
+git commit -m "ProfessionalProfile model has been modified to have 4 files one to one"
+ls
+nvim app/Models/File.php 
+cd Rece
+php artisan serve
+php artisan passport:client --personal
+php artisan serve
+php artisan migrate:fresh --seed
+php artisan serve
+php artisan passport:client --personal
+cd re
+ls
+php artisan migrate:refresh --path=database/migrations/2024_10_22_175643_create_files_table.php
+php artisan migrate:refresh --seed
+php artisan passport:client --personal
+cd rece
+ls
+php artisan migrate:refresh --seed
+php artisan passport:client --personal
+nvim 
+php artisan migrate:refresh --seed
+cd database/migrations/
+ls
+mv 2024_10_23_175643_create_files_table.php 2024_10_15_175643_create_files_table.php
+cd ..
+ls
+php artisan migrate:refresh --seed
+php artisan db:wipe
+cd database/migrations/
+ls
+cd ..
+l.s
+ls
+cd ..
+ls
+php artisan migrate
+nvim database/migrations/2024_10_15_175643_create_files_table.php 
+php artisan migrate
+php artisan migrate --fresh
+php artisan migrate:fresg
+php artisan migrate:fresh
+php artisan db:wipe
+php artisan migrate:fresh
+nvim database/migrations/2024_10_15_175643_create_files_table.php 
+php artisan migrate:fresh
+nvim database/migrations/2024_10_15_175643_create_files_table.php 
+php artisan migrate:fresh
+ls
+php artisan db:seed
+php artisan passport:client --personal
+php artisan serve
+ls
+git status
+rm +
+rm }
+ls
+rm \}
+ls
+rm "\}"
+ls
+git status
+git add -A 
+git commit -m "Now we can upload files to the server"
+git push
+cd rece
+ls
+git status
+ls
+git log --oneline --graph --decorate --all<\n>
+git rebase --help
+cd rece
+git fetch
+git checkout origin/refactoreo 
+git status
+git rebase master
+git rebase 2-crear-migraciones-modelo-controlador-y-rutas-de-professionalprofile 
+rm -rf ./git/rebase-merge
+git rebase 2-crear-migraciones-modelo-controlador-y-rutas-de-professionalprofile 
+git rebase --continue
+git status
+nvim documentation.yaml 
+git status
+git add -A
+git commit -m "Fix rebase"
+git rebase --continue
+git status
+git add app/Http/Requests/ProfileUpdateRequest.php app/Models/ProfessionalProfile.php
+git status
+git rm -A
+git status
+git rm app/Http/Controllers/Professional/ProfessionalProfileController.php
+git rm app/Models/Profiles/ProfessionalProfile.php
+git status
+git rm app/Models/Professional/ProfessionalProfile.php app/Http/Requests/Profiles/UpdateProfessionalProfileRequest.php app/Http/Requests/Profiles/StoreProfessionalProfileRequest.php app/Http/Requests/Professional/UpdateProfessionalProfileRequest.php
+git rebase --continue
+git status
+nvim app/Models/ProfessionalProfile.php 
+git rebase --continue
+git add .A
+git add .
+git status
+nvim app/Models/File.php 
+nvim app/Models/ProfessionalProfile.php 
+git commit -m "fix conflict"
+git rebase --continue
+git status
+git rm  app/Http/Controllers/Professional/ProfessionalProfileController.php app/Http/Requests/Profiles/StoreProfessionalProfileRequest.php
+git rebase --continue
+ls
+git status
+ssh ubuntu@tera.ar
+curl http://trenet.tera.ar
+wget trenet.tera.ar
+wget http://trenet.tera.ar
+curl http://trenet.tera.ar
+ssh ubuntu@tera.ar
+exit
+shutdown now
+ls
+cd Descargas/
+ls
+cd
+ls
+cd from_clorox/
+ls
+sudo shutdown -P +150
+shutdown now
+ssh root@66.97.47.139
+ssh root@179.43.127.109
+curl -X POST http://179.43.127.109:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}'
+ls
+curl -X POST https://179.43.127.109:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "TeraCoopContraseña"}'
+curl -X POST http://179.43.127.109:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "TeraCoopContraseña"}'
+curl -X POST http://179.43.127.109:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}'
+curl -X POST https://179.43.127.109:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}'
+curl -X POST https://179.43.127.109:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}' -k
+ssh -p5264 root@179.43.127.109
+shutdown now
+ls
+curl -X POST https://179.43.127.109:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}'
+curl -X POST https://licencias.tera.ar:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}'
+cCreate a file containing just this data:<\n><\n>HNTthLtvpOhc7HidPO4PuPHXKWm2WvX3MxLn4QzM6_I.wHeD4Pr_XbwR23svmwktqhzbrR92JgcNZQEfbFOJVW4<\n><\n>And make it available on your web server at this URL:<\n><\n>http://generadorserial.tera.coop.ar/.well-known/acme-challenge/HNTthLtvpOhc7HidPO4PuPHXKWm2WvX3MxLn4QzM6_I<\n><\n>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+curl -X POST https://licencias.tera.ar:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}'
+curl -X POST https://generadorserial.tera.coop.ar:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}'
+curl -X POST https://generadorserial.tera.coop.ar:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}' -k
+curl -X POST https://generadorserial.tera.coop.ar:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}' 
+curl -X POST https://tera.coop.ar:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}' 
+curl -X POST https://179.43.127.109:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}' 
+curl -X POST https://generadorserial.tera.coop.ar:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}' 
+curl -X POST https://generadorserial.tera.coop.ar/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}' 
+ssh ubuntu@calligari
+ssh ubuntu@calligari.ar
+curl -X POST https://generadorserial.tera.coop.ar/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}' 
+curl -X POST https://generadorserial.tera.coop.ar:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}' 
+curl -X POST http://generadorserial.tera.coop.ar:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}' 
+curl -X POST http://generadorserial.tera.coop.ar/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}' 
+ssh -p5264 root@179.43.127.109
+shutdown now
+ls
+cd Escritorio
+ls
+rm `MiniOS10 LTSB v2024.09 x64.iso`
+ls
+cd ..
+ls
+cd Descargas/
+ls
+ls -la
+clear
+ls 
+ls | sort-by size
+rm Win10_22H2_English_x64v1.iso manjaro-kde-24.1.0-241001-linux610.iso Every*
+ls
+ls | sort-by size
+rm Pokemon *
+rm Pokemon*
+ls
+ls | sort-by size
+rm archlinux-2024.08.01-x86_64.iso `POKEMON STAR SAPPHIRE V1.3 (OROCHI IORI).rar`
+exit
+shutdown now
+ssh root@144.217.91.178
+rm /home/santiago/.ssh/known_hosts
+ssh root@144.217.91.178
+rm /home/santiago/.ssh/known_hosts
+ssh root@144.217.91.178
+rm /home/santiago/.ssh/known_hosts
+ssh root@144.217.91.178
+rm /home/santiago/.ssh/known_hosts
+ssh root@144.217.91.178
+rm /home/santiago/.ssh/known_hosts
+ssh root@144.217.91.178
+rm /home/santiago/.ssh/known_hosts
+ssh root@144.217.91.178
+rm /home/santiago/.ssh/known_hosts
+ssh root@144.217.91.178
+python -V
+ssh tera@144.217.91.178
+history | grep sqlite
+history | grep flask
+history | grep localhost
+history | grep admin
+curl -X POST http://calligari.ar:5000/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "abc"}' 
+curl -X POST https://licencias.tera.ar/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "abc"}' 
+curl -X POST http://licencias.tera.ar/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "abc"}' 
+curl -X POST https://licencias.tera.ar/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "abc"}' 
+ssh tera@144.217.91.178
+curl -X POST https://licencias.tera.ar/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}' 
+curl -X POST https://licencias.tera.ar/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd}' 
+curl -X POST https://licencias.tera.ar/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}' 
+curl -X POST https://licencias.tera.ar/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNwwcr1+m7zCPciqZddGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}' 
+curl -X POST https://licencias.tera.ar/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "ContraseñaAdminTeraCoop"}' 
+curl -X POST https://licencias.tera.ar/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "Tera"}' 
+curl -X POST https://licencias.tera.ar/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "abc"}' 
+curl -X POST https://licencias.tera.ar/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "Tera"}' 
+curl -X POST https://licencias.tera.ar/admin/create_user -H "Content-Type: application/json" -d '{"usuario": "aa", "password": "a", "admin_key": "MLfaxYhDNww/cr1+m7zCPciqZd/dGGhciET0!K7eHc3GdJXo2=m7mTE_wZPd"}' 
+ssh tera@calligari.ar
+ls
+ssh root@179.43.127.109
+ssh -p5264 root@179.43.127.109
+exit
+ssh root@calligari.ar
+exit
+exit
+rustup
+ls
+cd Documentos
+ls
+cd Personal/
+ls
+cargo new ElectronicaCalligari
+ls
+rm -rf ElectronicaCalligari/
+cargo new electronica_calligari
+rm -rf ElectronicaCalligari/
+cargo new electronica_calligari --binary
+cargo new electronica_calligari --bin
+ls
+rm -rf electronica_calligari/
+cargo new electronica_calligari --bin
+cd electronica_calligari/
+ls
+nvim Cargo.toml 
+cargo build
+git status
+ls
+nvim src/main.rs 
+cargo run
+nvim src/main.rs 
+cargo run
+nvim src/main.rs 
+cargo run
+nvim src/main.rs 
+cd ele
+ls
+cd electronica
+ls
+cargo run
+nvim src/main.rs 
+cargo run
+nvim Cargo.toml 
+cargo add diesel
+cargo add dotenv
+cargo install diesel_cli
+cargo install diesel_cli --no-default-features --features mysql
+echo DATABASE_URL=mysql://isoroc:muriel@localhost/electronica > .env
+ls .env
+nvim .env
+diesel setup
+diesel migration generate create_products
+ls
+nvim migrations/2024-11-01-042932_create_products/up.sql 
+nvim migrations/2024-11-01-042932_create_products/down.sql 
+diesel migration run
+nvim migrations/2024-11-01-042932_create_products/down.sql 
+nvim migrations/2024-11-01-042932_create_products/down.sql4
+nvim migrations/2024-11-01-042932_create_products/down.sql
+diesel migration generate create_products_images
+rm -rf migrations/2024-11-01-043701_create_products_images/
+diesel migration generate create_product_images
+nvim migrations/2024-11-01-043714_create_product_images/
+diesel migration run
+diesel migratino
+diesel migration
+diesel migration redu
+diesel migration revert
+nvim migrations/2024-11-01-043714_create_product_images/
+diesel migration run
+nvim migrations/2024-11-01-042932_create_products/up.sql 
+diesel migration run
+ls
+rm -rf migrations/*
+ls
+diesel migration generate --diff-schema create_products
+diesel migration generate --diff-schema create_product_images
+ls
+nbim migrations/2024-11-01-044401_create_products/up.sql
+nvim migrations/2024-11-01-044401_create_products/up.sql
+ls
+rm -rf migrations/*
+nvim src/schema.rs
+diesel migration generate --diff-schema create_products
+diesel migration generate --diff-schema create_product_images
+cat migrations/2024-11-01-044625_create_products/up.sql 
+diesel
+diesel print-schema
+diese
+diesel
+diesel database
+diesel migration
+diesel migration generate
+diesel migration generate --help
+diesel migration generate --diff-schema=src/schema.rs
+diesel migration generate --diff-schema
+ls
+nvim migrations/2024-11-01-044630_create_product_images/
+nvim
+diesel migration generate --diff-schema
+diesel migration generate --diff-schema create_product_images
+nvim migrations/2024-11-01-044630_create_product_images/
+ls
+cat migrations/2024-11-01-044630_create_product_images/
+cat migrations/2024-11-01-044630_create_product_images/up.sql 
+rm -rf migrations/2024-11-01-045055_create_product_images/
+ls
+clear
+ls
+cat src/schema.rs 
+nvim src/lib.rs
+cargo add dontenvy
+nvim Cargo.toml 
+cargo build
+nvim src/lib.rs
+nvim src/models.rs
+ls
+git add -A
+git commit -m "First commit"
+exit
+shutdown now
+shutdown no
+ssh ubuntu@tera.ar
+exi
+exit
+shutdown now
+cd electronica
+ls
+cd calli
+ls
+diesel migration run
+cd rece
+ls
+cd estra
+ls
+ls app/Service/
+shutdown onw
+shutdown now
+sudo pacman -Syu
+inxi }
+inxi 
+shutdown now
+ls
+cd calli
+ls
+nvim
+ls
+cargo build
+nvim src/lib.rs 
+cargo build
+tree
+sudo pacman -S tree
+ee
+tre
+tree
+rm -rf target
+tree
+nvim src/lib.rs 
+cargo build
+nvim src/lib.rs 
+cargo build
+cd estra
+nvim app/Models/Agenda.php 
+nvim src/lib.rs 
+ls
+exit
+tmux
+clear
+nvim
+exit
+exit
+clear
+ls
+cargo build
+clear
+cargo b
+nvim
+exit
+exit
+tmux -u
+cd calli
+ls
+cargo b
+clear
+cargo b
+clear
+cargo b
+clear
+cargo b
+clear
+cargo b
+clear
+cargo b
+clear
+cargo b
+clear
+ls
+cargo b
+clear
+cargo b
+clear
+cargo b
+nvim
+git reset --hard HEAD
+ls
+nvim
+ls
+git log --onelinw
+git log --oneline
+git reset --hard main 
+ls
+git staus
+git status
+ls
+rm -rf src/Models/
+ls
+git reset --hard HEAD
+ls
+cd src
+ls
+rm -rf controller/ model service 
+ls
+ls Models
+rm -rf Models/ Service/
+ls
+cat main
+bat main
+bat main.rs 
+ls
+bat lib.rs 
+nvim lib.rs 
+bat schema.rs 
+ls
+diesel migration run
+l
+ls
+cat schema.rs 
+exit
+cd calli
+ls
+cd src
+ls
+mkdir model
+ls
+touch model/mod.rs
+touch model/product.rs
+ls
+nvim 
+cd cali
+cd cal
+ls
+cargo b
+clear
+cargo c
+ls
+nvim migrations/
+diesel migration run
+nvim migrations/2024-11-01-044625_create_products/
+diesel migration run
+cargo b
+ls
+rm src/schema.rs
+ls
+clear
+ls
+rm src/schema.rs
+diesel migration redo
+diesel migration --help
+diesel migrationlist
+diesel migration list
+diesel migration redo 2024-11-01-044625_create_products
+diesel migration redo --help
+diesel migration redo -a
+bat schema.rs 
+bat src/schema.rs 
+nvim migrations/2024-11-01-044625_create_products/
+diesel migration redo -a
+nvim migrations/2024-11-01-044625_create_products/
+diesel migration redo -a
+cargo b
+nvim src/lib.rs 
+cargo b
+nvim Cargo.toml 
+nvim src/lib.rs 
+nvim model/mod.rs 
+nvim Cargo.toml 
+ls
+cargo c
+cargo b
+ls
+cargo c
+cargo r
+ls
+:q
+ls
+cd ..
+ls
+diesel migration run
+nvim migrations/2024-11-01-044630_create_product_images/
+diesel migration run
+nvim src/main.rs 
+ls
+nvim
+cargo c
+ls
+cd calli
+ls
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+nvim src/model/product.rs 
+cargo c
+clear
+cargo c
+nvim src/model/product.rs 
+clear
+cargo c
+nvim src/model/product.rs 
+cargo c
+nvim src/model/product.rs 
+cargo c
+dl3q4
+lw
+clear
+ls
+bat src/schema.rs 
+nvim src/model/product.rs 
+bat src/schema.rs 
+clear
+cargo c
+ls
+nvim src/main.rs 
+nvim src/lib.rs 
+ls
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+clwar
+clear
+clwar
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+cd esta
+cd estra
+ls
+clear
+ls
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+cargo add serde_json
+nvim Cargo.toml 
+cargo add serde_json
+cargo 
+cargo b
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+cargo c
+clear
+cargo c
+clear
+ls
+nvim src/main.rs 
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+exit
+cd calli
+ls
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+cargo r
+bat main.rs
+ls
+bat src/main.rs
+curl -X POST http://localhost:8080/product \<\n>     -H "Content-Type: application/json" \<\n>     -d '{<\n>       "name": "Test Product",<\n>       "description": "Test Description",<\n>       "stock": 10,<\n>       "price": 1000<\n>     }'
+nvim
+git add -A
+git commit -m "Alta de Producto terminada"
+exit
+shutdown now
+cd calli
+ls
+git status
+git log --oneline
+cd calli
+nvim
+cd calli
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+nvim 
+cargo c
+nvim 
+cargo c
+nvim 
+cargo c
+nvim 
+cargo c
+nvim 
+nvim migrations/2024-11-01-044625_create_products/up.sql 
+cargo c
+nvim 
+nvim Cargo.toml 
+nvim 
+cargo b
+nvim 
+cargo b
+ls
+git reset --hard HEAD
+ls
+cargo c
+exit
+cd calli
+cargo c
+iuu
+cargo c
+nvim
+cargo cclear
+clean}
+clean
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+cargo r
+cd rece
+cargo r -r
+ls
+git status
+git add -A
+git commit -m "Modificacion producto lista"
+exit
+shutdown now
+ssh -p65002 admin@77.37.72.248 
+ls
+cd calli
+ls
+cd estra
+ls
+cd call
+ls
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+cargo r
+cargo r -r
+cd estr
+ls
+nvim app/Http/Controllers/ArticleController.php 
+cd cal
+ls
+cargo r -r
+clear
+cargo r -r
+clear
+cargo r -r
+clear
+cargo r -r
+clear
+cargo r -r
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+cargo r
+cargo r -r
+nvim
+exit
+cargo r
+ls
+cd cal
+cargo r
+cd cal
+ls
+cargo r
+ls
+cargo r
+cargo r --e
+cargo r -r
+cargo c
+cargo r -r
+cargo c
+clear
+cargo c
+cargo r -r
+cargo c
+carog r
+cargo r
+clear
+cargo r
+ls
+git status
+git add -A
+git diff
+ls
+git log --oneline
+git commit -m "Mostrar producto y productos listo"
+git push
+cargo r
+git push
+cargo c
+clear
+cargo c
+nvim 
+ls
+nvim Cargo.toml 
+cargo run --release
+cargo help
+cargo remove futures
+cd lice
+ls
+flask --app server run
+ls
+cat server.py 
+cat .env
+cargo run --release
+ls
+cd lice
+ls
+cat .env 
+ls
+exit
+ls
+exit
+shutdown now
+ssh ubuntu@tera.ar
+ssh
+ssh ubuntu@tera.ar
+ping tera.ar
+ip ad
+ssh ubuntu@tera.ar
+exit
+ls
+cd calli
+ls
+cd calli
+git remote add origin git@github.com:Calligari/electronica
+ls
+git status
+cd calli
+cargo run --release
+sl
+ls
+fdisk -l 
+sudo fdisk -l
+nvim
+git reset --hard HEAD
+ls
+git status
+rm src/controller/product_images_controller.rs src/model/product_images.rs
+ls
+sudo pacman -Q
+pacman -Qi | egrep '^(Name|Installed)' | cut -f2 -d':' | tr '\nK' ' \n' | sort -nrk 2 | less 
+sudo pacman -Rncs firefox bruno-bin qt6-webengine beekeeper-studio 
+sudo pacman -Rncs firefox bruno-bin qt6-webengine beekeeper-studio-appimage
+sudo pacman -Syuu qt6-webengine
+|reboot
+sudo pacman -S plasma-meta-all
+sudo pacman -S plasma-meta
+startx
+xstart
+reboot
+shutdown now
+cd /
+sudo du -h
+sudo du --help
+sudo du -S
+ls
+sudo du -S /
+ls
+sudo dh -h --max-depth=1
+sudo du -h --max-depth=1
+cd /var
+ls
+sudo du -h --max-depth=1
+cd cache/
+ls
+sudo du -h --max-depth=1
+cd pacman/
+ls
+cd pkg/
+ls
+sudo pacman -Sc
+ls
+paccache
+paccache -r}
+paccache -r
+ls
+cd ..
+ls
+cd ..
+ls
+rm -rf pacman/
+sudo rm -rf pacman/
+exit
+sudo pacman -Syuuu
+sudo ls /var/cache/
+ls
+clear
+ls
+du -h --max-depth=1
+du -h 
+du
+du -h --max-depth=1 *
+clear
+ls
+cd call
+ls
+cd call
+diesel migration redo -a
+cd call
+cargo c
+cd call
+cargo c
+clear
+cargo c
+cd call
+diesel migration redo -a
+cargo c
+clear
+cargo c
+clear
+cargo c
+clear
+cargo c
+cargo r
+nvim Cargo.toml 
+cargo add futures
+cargo add actix-multipart
+cargo sanitize-filename
+cargo add sanitize-filename
+cargo add uuid --features=v4
+cargo add tokio --features=full
+nvim
+carog run --release
+cargo run --release
+clear
+cargo run --release
+clear
+ls
+nvim src/model/product.rs 
+ls
+cargo run --release
+cd Documentos/
+ls
+nvim upload.json
+cd call
+clear
+ls
+cargo run --release
+clear
+cargo run --release
+clear
+cargo run --release
+:w
+cargo run --release
+cargo r
+exit
+cargo r
+clear
+cargo r
+clear
+cargo r
+clear
+cargo r
+clear
+cargo r
+clear
+cargo r
+cd call
+ls
+ls target/
+ls target/release/
+find 
+find --help
+ls **/* | where type == "dir" | where name=~ "tmp"
+ls **/* | where type == "dir" | where name =~ "tmp"
+ls
+ls /tmp
+ls /tmp/.*
+ls **/* | where type == "dir" | where name =~ "tmp"
+ls **/* |  where name =~ "tmp"
+ls
+ls **/* 
+ls **/* |  where name = "tmp"
+ls **/* |  where name = "*tmp*"
+clear
+ls **/* |  where name = "*tmp*"
+cargo r
+ls
+ls public/
+ls public/2/
+cargo r
+ls
+ls public/
+ls
+bash
+cargo r -r
+cat ~/Documentos/upload.json 
+cat ~/Documentos/upload.json }
+cargo r -r
+clear
+cargo r -r
+clear
+cargo r -r
+clear
+cargo r -r
+clear
+ls
+cargo r -r
+clear
+cargo r -r
+clear
+cargo r -r
+clear
+cargo r -r
+clear
+cargo r -r
+clear
+cargo r -r
+clear
+cd call
+ls
+nvim .enc
+cargo r -r
+nvim .env
+ls
+rm -rf public/
+ls
+ls public/
+ls
+cargo r -r
+git add -A
+git commit -m "Alta de imagen de producto"
+nvim
+exit
+shutdown now
+ls
+cd rece
+ls
+git switch develo
+git switch develop
+git reset --hard HEAD
+git switch develop
+git pull
+ls
+git fetch origin<\n>git checkout 11-completar-documentacion
+ls
+git branch -d 11-completar-documentacion 
+ls
+git checkout main
+git checkout master
+git branch -d 11-completar-documentacion 
+git checkout develop
+ls
+git checkout -b 11-completar-documentacion
+ls
+nvim documentation.yaml 
+cd config
+ls
+cd config
+cd plugins
+lz
+ls
+nvim swagger-preview.lua 
+cd rece
+ls
+nvim documentation.yaml 
+cd plug
+ls
+rm swagger-preview.lua
+nvim swagger-edit.lua
+nvim
+cd rece
+nvim documentation.yaml 
+npm install -g swagger-ui-watcher
+npm install -g npm@10.9.0
+ls
+swagger-ui-watcher 
+swagger-ui-watcher documentation.yaml
+nvim documentation.yaml 
+screen -S swagger
+cd rece
+php artisan serve
+ls
+cd ..
+cd rece
+swagger-ui-watcher documentation.yaml
+screen -S artisan
+php artisan serve
+composer install
+php artisan db:wipe
+php artisan migrate
+php artisan db:seed
+php artisan passport:client --personal
+cd rece
+ls
+php artisan serve
+php artisan db:wipe
+php artisan migrate
+php artisan db:seed
+php artisan passport:client --personal
+ls
+cat database/seeders/UserSeeder.php 
+cd doc
+ls
+nvim 
+ip ad
+php artisan serve
+shutdown now
+ls
+cd call
+ls
+nvim
+cd call
+cargo r -r
+clear
+cargo r -r
+clear
+cargo r -r
+clear
+cargo r -r
+clear
+cargo r -r
+clear
+cargo r -r
+clar
+clear
+cd do
+ls
+cargo r -r
+diesel migration redo -a
+diesel migration redo migrations/2024-11-01-044630_create_product_images/up.sql
+ls
+diesel migration run
+clear
+diesel migration run
+clear
+diesel migration run
+clear
+diesel migration generate create_trigger
+diesel migration run
+cargo r -r
+diesel migration redo -a
+git add -A
+git commit -m "Ahora solo puede haber una imagen primaria por producto, ademas no puede haber dos imagenes con el mismo display order"
+ls
+nvim .gitignore 
+git help
+git rm public/*
+git rm -r public/*
+ls
+nvim upload.json 
+cd call
+cargo r -r
+cargo run --release
+sudo nvim /etc/httpd/
