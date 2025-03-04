@@ -2,55 +2,58 @@
   "parser-directories": [
     "/home/santiago/github",
     "/home/santiago/src",
-    "/home/santiago/source"
+    "/home/santiago/source",
+    "/home/santiago/projects",
+    "/home/santiago/dev",
+    "/home/santiago/git"
   ],
   "theme": {
-    "punctuation.delimiter": 239,
-    "constructor": 136,
-    "attribute": {
-      "color": 124,
-      "italic": true
+    "type.builtin": {
+      "bold": true,
+      "color": 23
     },
-    "function": 26,
     "keyword": 56,
-    "punctuation.bracket": 239,
-    "string": 28,
-    "tag": 18,
     "embedded": null,
-    "string.special": 30,
-    "type": 23,
-    "variable.parameter": {
-      "underline": true
+    "function.builtin": {
+      "color": 26,
+      "bold": true
     },
-    "constant": 94,
-    "module": 136,
+    "string.special": 30,
+    "variable.builtin": {
+      "bold": true
+    },
     "constant.builtin": {
       "bold": true,
       "color": 94
     },
+    "comment": {
+      "color": 245,
+      "italic": true
+    },
+    "punctuation.delimiter": 239,
+    "tag": 18,
+    "constant": 94,
+    "variable.parameter": {
+      "underline": true
+    },
+    "module": 136,
+    "function": 26,
+    "number": {
+      "color": 94,
+      "bold": true
+    },
+    "punctuation.bracket": 239,
+    "constructor": 136,
     "property": 124,
     "operator": {
       "bold": true,
       "color": 239
     },
-    "variable.builtin": {
-      "bold": true
+    "attribute": {
+      "color": 124,
+      "italic": true
     },
-    "comment": {
-      "italic": true,
-      "color": 245
-    },
-    "type.builtin": {
-      "color": 23,
-      "bold": true
-    },
-    "function.builtin": {
-      "bold": true,
-      "color": 26
-    },
-    "number": {
-      "bold": true,
-      "color": 94
-    }
+    "string": 28,
+    "type": 23
   }
 }
